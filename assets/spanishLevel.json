@@ -1,0 +1,3298 @@
+{
+  "spanishLevelA": {
+    "title": "Gramatyka. Inwentarz A1-A2",
+    "curriculum": [
+      {
+        "id": "1",
+        "title": "Rzeczownik",
+        "topics": [
+          {
+            "id": "1.1",
+            "title": "Rodzaje rzeczowników",
+            "topics": [
+              {
+                "id": "1.1.1",
+                "title": "Nazwy własne",
+                "A1": [
+                  "[zob. Ortografia 1.4.3.]",
+                  "Antroponimy: Imiona bez rodzajnika (María, Antonio)",
+                  "Zdrobnienia i formy pieszczotliwe: Pepe (José), Paco (Francisco), Chelo (Consuelo), Lola (Dolores)",
+                  "[Ameryka Łacińska] Chayo (Rosario), Chava (Isabel), Güicho (Luis), Pancho (Francisco)",
+                  "Nazwiska bez rodzajnika: Fernández, González",
+                  "Formy grzecznościowe: el Sr. Fernández, (Don) Fernando",
+                  "[Ekwador i Kolumbia] Don i doña + imię / nazwisko bez pejoratywnej konotacji.",
+                  "[Republika Dominikany] Su merced",
+                  "Toponimy: Państwa bez rodzajnika (España, Italia), Wyjątek: El Salvador",
+                  "Miasta i miejscowości: Madrid, París, Alcalá de Henares"
+                ],
+                "A2": [
+                  "[zob. Ortografia 1.4.3.]",
+                  "Toponimy, które zawierają rodzajnik: La Coruña, El Escorial, La Habana",
+                  "Nazwy instytucji: Instituto Cervantes, Universidad Complutense",
+                  "Nazwy stanowisk, działów: Director, Centro de idiomas",
+                  "Nazwy przedmiotów lub dyscyplin: Física, Medicina",
+                  "Nazwy okresów czasowych: Pascua, Nochevieja (Wielkanoc, Sylwester)"
+                ]
+              },
+              {
+                "id": "1.1.2",
+                "title": "Nazwy pospolite",
+                "A1": [
+                  "Nazwy okresów czasowych: mediodía, tarde, noche (południe, popołudnie, noc)"
+                ],
+                "A2": [
+                  "Rzeczowniki odczasownikowe (nazywające zdarzenia): accidente, concierto (wypadek, koncert)"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "1.2",
+            "title": "Rodzaj gramatyczny rzeczowników",
+            "A1": [
+              "Rodzaj męski na –o i żeński na –a: amigo/amiga, vecino/vecina, libro/casa",
+              "Rodzaj męski / żeński na samogłoski inne niż –o / –a: el peine, la muerte",
+              "Rodzaj męski / żeński na spółgłoskę: el árbol, la catedral, la solución, el corazón",
+              "Rodzaj żeński na –o (pochodzący ze skrótu): la moto (motocicleta), la foto (fotografía), la radio (radiodifusión)",
+              "Heteronimia (różne słowa): el padre / la madre, el hombre / la mujer"
+            ],
+            "A2": [
+              "Rodzaj męski / żeński na –í / –ú (częściej męski): el jabalí",
+              "Rodzaj męski na –a: Nazwy kolorów (el naranja, el rosa), Rzeczowniki na –ma (el problema, el tema), Inne (el día)",
+              "Rodzaj żeński na –o: Pojedyncze przypadki (la mano)",
+              "Rodzaj żeński z inną końcówką (–esa, –triz, –ina, –isa): príncipe/princesa, actor/actriz, rey/reina, poeta/poetisa",
+              "Rzeczowniki na –dor, –tor, –sor: gobernador/gobernadora, director, secador, profesor",
+              "Rzeczowniki nieodmienne (rodzaj określany przez rodzajnik): el/la artista, el/la pianista"
+            ]
+          },
+          {
+            "id": "1.3",
+            "title": "Liczba rzeczowników",
+            "A1": [
+              "Zakończone na samogłoskę: liczba mnoga –s (mesa/mesas, libro/libros)",
+              "Zakończone na spółgłoskę: liczba mnoga –es (árbol/árboles, pared/paredes)",
+              "Zakończone na –s (jednosylabowe lub akcent na ostatniej sylabie): liczba mnoga –es (país/países)",
+              "Znaczenie liczby mnogiej: Suma jednostek (el coche/los coches)"
+            ],
+            "A2": [
+              "Rzeczowniki nieodmienne (nieakcentowane na ostatniej sylabie, zakończone na -s): el lunes/los lunes",
+              "Znaczenie liczby mnogiej: Rzeczowniki występujące w parach (las gafas, los pantalones)"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "title": "Przymiotnik",
+        "topics": [
+          {
+            "id": "2.1",
+            "title": "Rodzaje przymiotników",
+            "topics": [
+              {
+                "id": "2.1.1",
+                "title": "Przymiotniki jakościowe",
+                "A1": [
+                  "Funkcja przydawki: el chico guapo (przystojny chłopak)",
+                  "Funkcja orzecznika: El chico es guapo (Chłopak jest przystojny)",
+                  "Niezgodność z zaimkami dzierżawczymi: *mi guapo"
+                ],
+                "A2": [
+                  "Przeciwstawne cechy (skrajne stopnie): bonito – feo, bueno – malo, fuerte – débil… (piękny - brzydki, dobry - zły, silny - słaby)"
+                ]
+              },
+              {
+                "id": "2.1.2",
+                "title": "Przymiotniki relacyjne",
+                "A1": [
+                  "Bardzo częste przymiotniki odnarodowe: español, francés, japonés (hiszpański, francuski, japoński)"
+                ],
+                "A2": []
+              }
+            ]
+          },
+          {
+            "id": "2.2",
+            "title": "Rodzaj gramatyczny przymiotnika",
+            "A1": [
+              "Rodzaj męski na –o i żeński na –a: alto/alta",
+              "Zakończone na –e: interesante, agradable, dulce"
+            ],
+            "A2": [
+              "Rodzaj męski na spółgłoskę i żeński na –a (przymiotniki odnarodowe): español/española",
+              "Zakończone na spółgłoskę: difícil, fácil",
+              "Przymiotniki odnarodowe: marroquí, hindú",
+              "Pochodne na –dor, –tor, –sor: creador/creadora, receptor/receptora"
+            ]
+          },
+          {
+            "id": "2.3",
+            "title": "Liczba przymiotnika",
+            "A1": [
+              "Zakończone na samogłoskę: liczba mnoga –s (alto/altos, española/españolas)",
+              "Zakończone na spółgłoskę: liczba mnoga –es (fácil/fáciles)"
+            ],
+            "A2": []
+          },
+          {
+            "id": "2.4",
+            "title": "Pozycja przymiotnika",
+            "A1": [
+              "Pozycja po rzeczowniku (określająca): un chico guapo (przystojny chłopak)"
+            ],
+            "A2": []
+          },
+          {
+            "id": "2.5",
+            "title": "Stopniowanie przymiotnika",
+            "A1": [
+              "Stopień równy: un chico guapo",
+              "Stopień wyższy: más... que (więcej/bardziej... niż)",
+              "Stopień równy (porównawczy): tan... como (tak... jak)",
+              "Stopień niższy: menos... que (mniej... niż)",
+              "Stopień najwyższy absolutny z 'muy': muy guapo (bardzo przystojny)"
+            ],
+            "A2": [
+              "Częstsze formy nieregularne pochodzenia łacińskiego: mejor, peor, mayor, menor (lepszy, gorszy, większy/starszy, mniejszy/młodszy)"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "title": "Rodzajnik",
+        "topics": [
+          {
+            "id": "3.1",
+            "title": "Rodzajnik określony",
+            "A1": [
+              "Forma regularna: el, la, los, las",
+              "Formy ściągnięte: al, del",
+              "Brak przy imionach własnych osób: [zob. Gramatyka 1.1.1.]",
+              "Pozycja: Pierwsze miejsce w grupie nominalnej (la otra chica)",
+              "Niezgodność: Z zaimkami dzierżawczymi i wskazującymi przed rzeczownikiem (*el este libro)",
+              "Obowiązkowy z 'gustar': Me gusta la paella.",
+              "Niezgodność z 'haber': *Ahí hay la mesa.",
+              "Zgodność z 'estar': Ahí está la mesa."
+            ],
+            "A2": [
+              "Forma 'el' przed samogłoską a– akcentowaną: el aula / las aulas",
+              "Użycie anaforyczne (drugie wspomnienie): El curso es interesante.",
+              "Użycie deiktyczne (sytuacyjne): ¿Puedes cerrar la puerta, por favor? (Możesz zamknąć drzwi, proszę?)",
+              "Posiadanie niezbywalne: Me duele la cabeza (Boli mnie głowa).",
+              "Wartość uogólniająca: Leo el periódico (Czytam gazetę).",
+              "Wartość rzeczownikotwórcza: Compra el nuevo (Kup ten nowy).",
+              "Obowiązkowy przy czynnościach rekreacyjnych: Juego al tenis (Gram w tenisa).",
+              "Pozycja: Za todo/a/os/as (todos los libros)",
+              "Niezgodność z 'saber': Sabe *el ruso.",
+              "Niezgodność z zaimkami dzierżawczymi bez modyfikatora: *Tiene el perro. / Tiene el perro de Juan."
+            ]
+          },
+          {
+            "id": "3.2",
+            "title": "Rodzajnik nieokreślony",
+            "A1": [
+              "Forma regularna: un, una, unos, unas",
+              "Znaczenie nieokreśloności (pierwsze wspomnienie): Tengo un libro (Mam [jakąś] książkę).",
+              "Niezgodność z nazwami własnymi: *un Javier",
+              "Niezgodność z innymi określnikami: *este un amigo",
+              "Obowiązkowy z 'hay'"
+            ],
+            "A2": [
+              "Forma 'un' przed samogłoską –a akcentowaną: un aula / unas aulas",
+              "Znaczenie nieokreśloności (nie całość): ¿Me das una hoja? (Dasz mi kartkę?)",
+              "Anaforyczne (tożsamość znaczenia): Voy a una clase de español y luego a una de francés.",
+              "Anaforyczne (skojarzeniowe): En la clase hace frío, una ventana está rota.",
+              "Posiadanie niezbywalne: Me duele un dedo (Boli mnie palec).",
+              "Wartość przybliżona: unos 50 euros (około 50 euro)",
+              "Wartość rzeczownikotwórcza: Compra una nueva (Kup nową).",
+              "Orzecznik bez rodzajnika (zawód, itp.): Es profesora de español (Jest nauczycielką hiszpańskiego).",
+              "Orzecznik klasyfikujący: Es un amigo (To jest przyjaciel)."
+            ]
+          },
+          {
+            "id": "3.3",
+            "title": "Brak określnika: rzeczowniki \"nagie\"",
+            "A1": [
+              "Niezgodność z 'gustar': *Me gusta paella.",
+              "Zgodność z bezosobowym 'haber': Hay árboles (Są drzewa).",
+              "Z rzeczownikami niepoliczalnymi (l. pojedyncza) i policzalnymi (l. mnoga): Bebe agua. Escribe cartas."
+            ],
+            "A2": [
+              "Niezgodność z orzeczeniami takimi jak 'encantar': *Le encanta cine.",
+              "Ograniczenia z rzeczownikami policzalnymi w l. pojedynczej (stereotypy z 'tener'): Tiene casa. / *Tiene palacio."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "title": "Zaimki wskazujące",
+        "topics": [
+          {
+            "id": "4.1",
+            "title": "Zaimki wskazujące",
+            "A1": [
+              "Forma (męski/żeński): este/a/os/as, ese/a/os/as, aquel/lla/os/as (ten/ta/ci/te, tamten/tamta/tamci/tamte)",
+              "Forma (nijaki): esto, eso, aquello (to, tamto)",
+              "Pozycja początkowa z czasownikami łączącymi: Eso es un libro (To jest książka).",
+              "Deiktyczne przestrzenne (bliskość): este libro (ta książka [tutaj])",
+              "Deiktyczne przestrzenne (oddalenie): ese libro (ta książka [tam]), aquel árbol (tamto drzewo [daleko])",
+              "Odnośnik nieznany: ¿Qué es eso? (Co to jest?)",
+              "Pozycja przed rzeczownikiem",
+              "Niezgodność z rodzajnikiem: *el este"
+            ],
+            "A2": [
+              "Deiktyczne czasowe: Esta tarde voy al cine (Dziś po południu idę do kina).",
+              "Anaforyczne: Luis hizo una señal a Antonio, pero este no la vio (Luis dał znak Antoniemu, ale ten go nie zobaczył).",
+              "Odnośnik (przedmiot/osoba): No, ese no es (Nie, to nie ten)."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "title": "Zaimki dzierżawcze",
+        "topics": [
+          {
+            "id": "5.1",
+            "title": "Zaimki dzierżawcze",
+            "A1": [
+              "Formy nieakcentowane (jeden posiadacz): mi, mis, tu, tus, su, sus",
+              "Formy nieakcentowane i akcentowane (wielu posiadaczy): nuestro/a/os/as, vuestro/a/os/as, su/sus",
+              "Zbieżność formalna 3. osoby: su casa [de él/ella/ellos/ellas] (jego/jej/ich dom)",
+              "Pozycja formy nieakcentowanej: mi libro (moja książka)",
+              "Brak możliwości samodzielnego występowania (formy nieakcentowane): -¿De quién es? -*Mi.",
+              "Niezgodność z rodzajnikiem (formy nieakcentowane): *la mi amiga",
+              "Niezgodność z 'haber': *Hay mis amigos."
+            ],
+            "A2": [
+              "Formy akcentowane (jeden posiadacz): mío/a/os/as, tuyo/a/os/as, suyo/a/os/as",
+              "Formy akcentowane (wielu posiadaczy): suyo/a/os/as",
+              "[Ameryka Łacińska] Zaimki dzierżawcze po rzeczowniku: el libro tuyo, la escuela de nosotros",
+              "Posiadanie niezbywalne (z rodzajnikiem): Me duele la cabeza. / *Me duele mi cabeza.",
+              "Użycie kontrastowe z rodzajnikiem: prefiero el mío (wolę mój).",
+              "Odpowiedź na pytania (formy akcentowane): -¿De quién es? -Mío. (-Czyj jest? -Mój.)",
+              "Zgodność z rodzajnikiem (formy akcentowane): el mío (ten mój)",
+              "Połączenie z 'todos' i 'otros': todos mis compañeros, mis otros compañeros (wszyscy moi koledzy, moi inni koledzy)"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "title": "Określniki ilości",
+        "topics": [
+          {
+            "id": "6.1",
+            "title": "Właściwe określniki ilości",
+            "A1": [
+              "Liczebniki główne: dos, catorce, trescientos",
+              "Liczebniki porządkowe (do 10.): primero, segundo",
+              "Nieuniwersalne (twierdzące): Poco, mucho, bastante (mało, dużo, wystarczająco)",
+              "Stopniujące (porównawcze): más, menos, tan, tanto"
+            ],
+            "A2": [
+              "Liczebniki porządkowe (apokopa): primer, tercer",
+              "Uniwersalne (Todo): todos los días, todos mis amigos",
+              "Nieuniwersalne (twierdzące): Otro, demasiado (inny, za dużo)",
+              "Nieuniwersalne (przeczące): Nada, nadie (nic, nikt)"
+            ]
+          },
+          {
+            "id": "6.2",
+            "title": "Określniki ilościowe ogniskujące lub presuponujące",
+            "A1": [
+              "Włączające: También, tampoco (także, także nie/też nie)"
+            ],
+            "A2": []
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "title": "Zaimek",
+        "topics": [
+          {
+            "id": "7.1",
+            "title": "Zaimek osobowy",
+            "topics": [
+              {
+                "id": "7.1.1",
+                "title": "Zaimek w funkcji podmiotu",
+                "A1": [
+                  "Forma: yo, tú, él/ella, nosotros/as, vosotros/as, ellos/as",
+                  "Forma 'vos' [Strefy używające 'vos']",
+                  "Forma 'usted/ustedes'",
+                  "Brak (zasada ogólna): Estudio español (Uczę się hiszpańskiego).",
+                  "Obecność (kontrast): Yo soy Clara, ¿y tú? (Ja jestem Clara, a ty?)",
+                  "Brak w zdaniach bezosobowych z 'haber': Hay mucha gente (Jest dużo ludzi)."
+                ],
+                "A2": [
+                  "Obecność w celu uniknięcia niejednoznaczności: Él preguntó y ella contestó (On zapytał, a ona odpowiedziała).",
+                  "Brak z czasownikami meteorologicznymi: Llueve (Pada deszcz).",
+                  "Odniesienie do uczestników dyskursu (nosotros włączające/wyłączające)",
+                  "Odniesienie do 3. osoby (nie-osoby): él, ellos",
+                  "Deiksis 'ad oculos': Ha sido él [wskazując]. (To był on).",
+                  "Wartość anaforyczna: Hablé con Luis y él me dijo... (Rozmawiałem z Luisem i on mi powiedział...)"
+                ]
+              },
+              {
+                "id": "7.1.2",
+                "title": "Zaimki nieakcentowane dopełnienia bliższego (OD)",
+                "A1": [
+                  "Brak z 'hay': -¿Hay parques? -Sí, hay.",
+                  "Brak w odpowiedziach (odniesienie nieokreślone): -¿Tienes coche? -No, no tengo."
+                ],
+                "A2": [
+                  "Formy: me, te, nos, os, lo, la, los, las",
+                  "Zaimek nijaki 'lo'",
+                  "Pierwszeństwo form nieakcentowanych przed akcentowanymi: La vi. / *Vi a ella.",
+                  "Pozycja (prokliza/enkliza): lo escribo / escríbelo",
+                  "Alternacja w peryfrazach: Voy a verlo. / Lo voy a ver."
+                ]
+              },
+              {
+                "id": "7.1.3",
+                "title": "Zaimki nieakcentowane dopełnienia dalszego (OI): seria me, te, le",
+                "A1": [
+                  "Forma (1. osoba l. pojedynczej): Me gusta el cine (Lubię kino).",
+                  "Znaczenie doznającego z 'gustar': Me gustan los coches (Podobają mi się samochody)."
+                ],
+                "A2": [
+                  "Formy: me, te, nos, os, le, les",
+                  "Zastąpienie le/les przez 'se' przed dopełnieniem bliższym: Se lo dieron a María.",
+                  "Obecność obowiązkowa (podwojenie): Se lo doy a Luis.",
+                  "Pozycja (alternacja w peryfrazach): Voy a escribirle. / Le voy a escribir.",
+                  "Znaczenie doznającego z 'interesar', 'encantar', itp."
+                ]
+              },
+              {
+                "id": "7.1.4",
+                "title": "Wartości zaimka 'se'",
+                "A1": [
+                  "Jedna forma (liczba pojedyncza/mnoga)",
+                  "Zaimek zwrotny: Levantarse, peinarse (wstawać, czesać się)",
+                  "[Ameryka Łacińska] Tendencja do używania form zwrotnych: desayunarse, tardarse"
+                ],
+                "A2": []
+              },
+              {
+                "id": "7.1.6",
+                "title": "Zaimki akcentowane jako dopełnienia przyimkowe",
+                "A1": [],
+                "A2": [
+                  "Paradygmat zbieżny z podmiotem (mí, ti)",
+                  "Formy dla 'vos': con vos, a vos",
+                  "Podwojenie: A mí me gusta el azul (Ja lubię niebieski).",
+                  "Formy połączone: conmigo, contigo (ze mną, z tobą)",
+                  "Wartość anaforyczna (tematyzacja): Con él me divierto (Z nim dobrze się bawię).",
+                  "Wartość dopełnienia dalszego (doznający/odbiorca): A mí no me gusta. / Te lo doy a ti."
+                ]
+              }
+            ]
+          },
+          {
+            "id": "7.2",
+            "title": "Zaimki względne",
+            "A1": [],
+            "A2": [
+              "'Que' w zdaniach względnych określających z wyrażonym poprzednikiem: El libro que lee... (Książka, którą czyta...)",
+              "Nieodmienny i nieakcentowany",
+              "Poprzednik (+/- ludzki): El libro que..., La profesora que...",
+              "Funkcja podmiotu i dopełnienia bliższego"
+            ]
+          },
+          {
+            "id": "7.3",
+            "title": "Zaimki pytające",
+            "A1": [
+              "'Qué': ¿Qué estudias? ¿Qué libro lees? (Czego się uczysz? Jaką książkę czytasz?)",
+              "'Quién/quiénes' (l. pojedyncza): ¿Quién es esa chica? (Kim jest ta dziewczyna?)",
+              "'Cuánto/a/os/as': ¿Cuántos años tienes? (Ile masz lat?)"
+            ],
+            "A2": [
+              "'Qué' (pytanie o podmiot, dopełnienie bliższe, orzecznik): ¿Qué ha pasado? ¿Qué comes?",
+              "'Quién/quiénes' (l. mnoga): ¿Quiénes viven en el 5.º? (Kto mieszka na 5. piętrze?)",
+              "'Cuánto' (przysłówek nieodmienny): ¿Cuánto pesas? (Ile ważysz?)"
+            ]
+          },
+          {
+            "id": "7.4",
+            "title": "Zaimki wykrzyknikowe",
+            "A1": [
+              "'Qué' z przymiotnikiem/przysłówkiem: ¡Qué bonito! ¡Qué bien! (Jak pięknie! Jak dobrze!)",
+              "'Qué' z czasownikiem łączącym: ¡Qué bonito es! (Jakie to piękne!)"
+            ],
+            "A2": []
+          }
+        ]
+      },
+      {
+        "id": "8",
+        "title": "Przysłówek i wyrażenia przysłówkowe",
+        "topics": [
+          {
+            "id": "8.1",
+            "title": "Przysłówki na -mente",
+            "A1": [],
+            "A2": [
+              "Zasada podstawowa"
+            ]
+          },
+          {
+            "id": "8.2",
+            "title": "Przysłówki nuklearne lub orzeczenia",
+            "A1": [
+              "Miejsca (deiktyczne): aquí, ahí, allí (tutaj, tam)",
+              "Czasu (deiktyczne): ahora, hoy, mañana (teraz, dzisiaj, jutro)",
+              "Ilości (po czasowniku): poco, mucho, bastante (mało, dużo, wystarczająco)",
+              "Opozycja mucho/muy: Es muy bonito. / *Es mucho bonito.",
+              "Wynikowe (po czasowniku): bien, mal (dobrze, źle)",
+              "Biegunowe twierdzące/przeczące: Sí, no (Tak, nie)"
+            ],
+            "A2": [
+              "Miejsca (przyimkowe): dentro de, fuera de, etc. (wewnątrz, na zewnątrz)",
+              "Czasu (sekwencja): primero, luego, después (najpierw, potem, później)",
+              "Czasu (przyimkowe): antes de, después de (przed, po)",
+              "Czasu (nunca - nigdy)",
+              "Ilości (nada - nic)"
+            ]
+          },
+          {
+            "id": "8.4",
+            "title": "Przysłówki modalne",
+            "A1": [],
+            "A2": [
+              "Porządkujące lub sekwencyjne: primero, segundo (po pierwsze, po drugie)"
+            ]
+          },
+          {
+            "id": "8.5",
+            "title": "Przysłówki łączące",
+            "A1": [],
+            "A2": [
+              "Entonces, también, tampoco (wtedy, także, również nie)"
+            ]
+          },
+          {
+            "id": "8.8",
+            "title": "Przysłówki względne i pytające",
+            "A1": [
+              "Pytające dónde, cómo: ¿Dónde vives? (Gdzie mieszkasz?)"
+            ],
+            "A2": [
+              "Pytający cuándo: ¿Cuándo empiezas las vacaciones? (Kiedy zaczynasz wakacje?)"
+            ]
+          },
+          {
+            "id": "8.9",
+            "title": "Wyrażenia przysłówkowe",
+            "A1": [
+              "Por qué (kontrast z porque)"
+            ],
+            "A2": [
+              "Złożone z przysłówka + przyimka: antes de, después de, encima de"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "9",
+        "title": "Czasownik",
+        "topics": [
+          {
+            "id": "9.1",
+            "title": "Czasy trybu oznajmującego (Indicativo)",
+            "topics": [
+              {
+                "id": "9.1.1",
+                "title": "Czas teraźniejszy (Presente)",
+                "A1": [
+                  "Paradygmat czasowników regularnych",
+                  "Formy z 'vos'",
+                  "Nieregularności: ser, estar, haber, ir",
+                  "Wartość teraźniejszości aktualnej: Estamos en clase (Jesteśmy na lekcji).",
+                  "Wartość teraźniejszości trwającej: Vivo en Madrid (Mieszkam w Madrycie)."
+                ],
+                "A2": [
+                  "Nieregularności samogłoskowe i spółgłoskowe",
+                  "Nieregularności: saber, dar",
+                  "Nieregularności ortograficzne",
+                  "Wartość teraźniejszości nawykowej: Siempre estudio mucho (Zawsze dużo się uczę).",
+                  "Wartość przyszłości: Mañana voy al cine (Jutro idę do kina)."
+                ]
+              },
+              {
+                "id": "9.1.2",
+                "title": "Czas przeszły niedokonany (Pretérito imperfecto)",
+                "A1": [],
+                "A2": [
+                  "Paradygmat czasowników regularnych",
+                  "Czasowniki nieregularne: ser, ir, ver",
+                  "Wartość opisowa: Mi madre era alta (Moja mama była wysoka).",
+                  "Wartość nawykowa lub cykliczna: Iba todos los días al colegio (Chodziłem codziennie do szkoły)."
+                ]
+              },
+              {
+                "id": "9.1.3",
+                "title": "Czas przeszły dokonany prosty (Pretérito indefinido)",
+                "A1": [],
+                "A2": [
+                  "Paradygmat form regularnych",
+                  "Nieregularność w temacie: tener, hacer, estar",
+                  "Czasowniki nieregularne: ser, ir, ver, dar",
+                  "Podstawowe znaczenie: akcje przeszłe zakończone w określonym czasie."
+                ]
+              },
+              {
+                "id": "9.1.6",
+                "title": "Czas przeszły dokonany złożony (Pretérito perfecto)",
+                "A1": [],
+                "A2": [
+                  "Odmiana 'haber' i imiesłowy regularne",
+                  "Imiesłowy nieregularne: hecho, escrito, visto",
+                  "Wartość: akcja przeszła mająca związek z teraźniejszością (hoy, este año, etc.)"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "9.3",
+            "title": "Tryb rozkazujący (Imperativo)",
+            "A1": [
+              "Rozkazy twierdzące regularne (tú, vosotros)",
+              "Rozkazujący dla 'vos'",
+              "Rozkazy twierdzące nieregularne: di, haz, pon, sal",
+              "Rozkazujący dla usted/ustedes",
+              "Położenie zaimków (enklityczne): Cómpralo (Kup to).",
+              "Wartość instrukcji: Sigue todo recto (Idź prosto).",
+              "Rozkazy zleksykalizowane (fatyczne): mira, oye, ¿diga? (spójrz, słuchaj, halo?)",
+              "Rozkazy zleksykalizowane (grzecznościowe): perdona / perdone (przepraszam)"
+            ],
+            "A2": []
+          },
+          {
+            "id": "9.4",
+            "title": "Formy nieosobowe czasownika",
+            "topics": [
+              {
+                "id": "9.4.1",
+                "title": "Bezokolicznik (Infinitivo)",
+                "A1": [
+                  "Forma prosta",
+                  "Jako odpowiedź: -¿Qué haces? -Estudiar. (-Co robisz? -Uczę się.)",
+                  "W zdaniach podrzędnych (podmiot/dopełnienie bliższe): Me gusta estudiar. Quiero ir."
+                ],
+                "A2": [
+                  "Podmiot nieokreślony: Hay que hacer... (Trzeba zrobić...)",
+                  "Położenie zaimków: Puedes usarla.",
+                  "W zdaniach podrzędnych przysłówkowych czasu: antes de acostarme (przed pójściem spać)"
+                ]
+              },
+              {
+                "id": "9.4.2",
+                "title": "Imiesłów czynny (Gerundio)",
+                "A1": [],
+                "A2": [
+                  "Forma prosta",
+                  "Położenie zaimków: Está escuchándola.",
+                  "Peryfrastyczny: estar + gerundio"
+                ]
+              },
+              {
+                "id": "9.4.3",
+                "title": "Imiesłów bierny (Participio)",
+                "A1": [
+                  "Imiesłowy regularne (uzgodnienie)",
+                  "Wartość przymiotnikowa: Estoy cansado (Jestem zmęczony)."
+                ],
+                "A2": [
+                  "Imiesłowy nieregularne: hecho, escrito",
+                  "Jako morfem czasów złożonych",
+                  "Jako orzecznik: El coche está estropeado (Samochód jest zepsuty)."
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "10",
+        "title": "Fraza rzeczownikowa (Grupa nominalna)",
+        "topics": [
+          {
+            "id": "10.2",
+            "title": "Dopełnienia i modyfikatory",
+            "A1": [
+              "Przymiotniki nierelacyjne",
+              "Fraza przyimkowa: el libro de español, la hora de comer",
+              "Zdania względne określające: la chica que lleva gafas (dziewczyna, która nosi okulary)"
+            ],
+            "A2": [
+              "Fraza przyimkowa (ograniczenia): *la casa de mí / mi casa",
+              "Imiesłowy jako przymiotniki: una película apasionante",
+              "Apozycja określająca: mi hermano Juan, calle Alcalá"
+            ]
+          },
+          {
+            "id": "10.3",
+            "title": "Zgoda wewnętrzna w grupie nominalnej",
+            "A1": [
+              "Zasada ogólna: określnik – rdzeń – przymiotnik"
+            ],
+            "A2": [
+              "Płeć biologiczna a rodzaj gramatyczny: el caimán / *la caimana"
+            ]
+          },
+          {
+            "id": "10.4",
+            "title": "Zgoda grupy nominalnej z czasownikiem",
+            "A1": [
+              "Zasada ogólna"
+            ],
+            "A2": [
+              "Zgoda ze zbiorowością: Mucha gente vive...",
+              "Zgoda w koordynacji: Me interesa la gente y los viajes."
+            ]
+          },
+          {
+            "id": "10.5",
+            "title": "Wołacz (Vocativo)",
+            "A1": [
+              "W pozycji początkowej i końcowej: Juan, ¿eres de Madrid?"
+            ],
+            "A2": []
+          }
+        ]
+      },
+      {
+        "id": "11",
+        "title": "Fraza przymiotnikowa (Grupa przymiotnikowa)",
+        "topics": [
+          {
+            "id": "11.2",
+            "title": "Dopełnienia i modyfikatory",
+            "A1": [
+              "Przysłówki stopnia: muy, poco, bastante (bardzo, mało, wystarczająco)"
+            ],
+            "A2": [
+              "Przysłówki stopnia porównawczego: más, menos, tan",
+              "Wykrzykniki: ¡Qué bonito!"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "12",
+        "title": "Fraza czasownikowa (Grupa werbalna)",
+        "topics": [
+          {
+            "id": "12.1",
+            "title": "Rdzeń",
+            "A1": [
+              "Czasowniki orzekające (psychologiczne): gustar",
+              "Czasowniki łączące (ser/estar bez przymiotnika): Soy Elena. Está aquí."
+            ],
+            "A2": [
+              "Czasowniki orzekające (przechodnie, nieprzechodnie, nieakuzatywne, psychologiczne)",
+              "Czasowniki posiłkowe (haber)",
+              "Peryfrazy czasownikowe (aspektualne, modalne): estar+gerundio, ir a+inf, tener que+inf",
+              "Czasowniki łączące (ser/estar + przymiotnik/przyimek): Luis es sincero. Estamos a tres grados."
+            ]
+          },
+          {
+            "id": "12.2",
+            "title": "Dopełnienia",
+            "topics": [
+              {
+                "id": "12.2.1",
+                "title": "Orzecznik (Atributo)",
+                "A1": [
+                  "Zgoda orzecznik-podmiot: Mis compañeras son alemanas.",
+                  "Orzecznik rzeczownikowy: Mario es cocinero.",
+                  "Orzecznik przymiotnikowy: El hijo de Marta es rubio."
+                ],
+                "A2": [
+                  "Orzecznik imiesłowowy: El tren está parado."
+                ]
+              },
+              {
+                "id": "12.2.2",
+                "title": "Dopełnienie bliższe (Objeto directo)",
+                "A1": [
+                  "Dopełnienie bliższe osoby bez 'a': Tengo dos hermanos.",
+                  "Dopełnienie bliższe rzeczy: No tengo teléfono.",
+                  "Dopełnienie bliższe jako zdanie podrzędne: Creo que..."
+                ],
+                "A2": [
+                  "Dopełnienie bliższe osoby z 'a': Hoy he visto a Almudena.",
+                  "Zastąpienie przez zaimek: Lo vi."
+                ]
+              },
+              {
+                "id": "12.2.3",
+                "title": "Dopełnienie dalsze (Objeto indirecto)",
+                "A1": [
+                  "Zaimek dopełnienia dalszego z 'gustar': Me gusta bailar."
+                ],
+                "A2": [
+                  "Postawienie przyimka 'a' na początku: He escrito una postal a mis padres.",
+                  "Zaimki osobowe dopełnienia dalszego",
+                  "Dativus odbioru, oddzielenia, posiadania",
+                  "Podwojenie dopełnienia dalszego: A mí me encanta comer fuera."
+                ]
+              },
+              {
+                "id": "12.2.4",
+                "title": "Okoliczniki (Complementos circunstanciales)",
+                "A1": [],
+                "A2": [
+                  "Współwystępowanie dwóch lub więcej okoliczników: Ceno todos los sábados en un restaurante.",
+                  "Ruchomość w pozycji."
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "13",
+        "title": "Zdanie pojedyncze",
+        "topics": [
+          {
+            "id": "13.1",
+            "title": "Zgoda (Concordancia)",
+            "A1": [
+              "Między podmiotem-czasownikiem i podmiotem-orzecznikiem"
+            ],
+            "A2": [
+              "Zgoda z zaimkami grzecznościowymi usted/ustedes"
+            ]
+          },
+          {
+            "id": "13.2",
+            "title": "Składniki",
+            "A1": [
+              "Szyk neutralny lub kanoniczny: SVO (Podmiot-Orzeczenie-Dopełnienie)"
+            ],
+            "A2": [
+              "Wariacje w szyku SV: -¿Quién es María? -Soy yo."
+            ]
+          },
+          {
+            "id": "13.3",
+            "title": "Typy zdań pojedynczych",
+            "A1": [
+              "Oznajmujące (twierdzące/przeczące)",
+              "Pytające (rozstrzygnięcia/dopełnienia)",
+              "Bezosobowe z 'haber': Hay tres personas.",
+              "Z łącznikiem, przechodnie i nieprzechodnie"
+            ],
+            "A2": [
+              "Pytające rozłączne: ¿Prefieres té o café?",
+              "Wykrzyknikowe: ¡Estoy cansado!",
+              "Nakazujące: Habla con él.",
+              "Zwrotne: Me ducho por la mañana.",
+              "Bezosobowe z 'hacer': Hace frío."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "14",
+        "title": "Zdania złożone współrzędnie",
+        "topics": [
+          {
+            "id": "14.1",
+            "title": "Łączne (Copulativas)",
+            "A1": [
+              "Ze spójnikiem 'y': Soy americana y vivo en Los Ángeles.",
+              "Przeczące z 'ni': No me gusta el otoño ni el invierno."
+            ],
+            "A2": [
+              "Zastąpienie 'y' przez 'e': Quiero verte e ir a tu casa."
+            ]
+          },
+          {
+            "id": "14.2",
+            "title": "Rozłączne (Disyuntivas)",
+            "A1": [
+              "Ze spójnikiem 'o': ¿Eres americano o inglés?"
+            ],
+            "A2": [
+              "Zastąpienie 'o' przez 'u': Siete u ocho botellas."
+            ]
+          },
+          {
+            "id": "14.3",
+            "title": "Przeciwstawne (Adversativas)",
+            "A1": [
+              "Ze spójnikiem 'pero': Soy alemán, pero vivo en Suiza."
+            ],
+            "A2": []
+          },
+          {
+            "id": "14.4",
+            "title": "Rozdzielne (Distributivas)",
+            "A1": [],
+            "A2": [
+              "Z 'uno... otro': Uno habla alemán, otro habla francés."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "15",
+        "title": "Zdania złożone podrzędnie",
+        "topics": [
+          {
+            "id": "15.1",
+            "title": "Zdania podrzędne rzeczownikowe",
+            "topics": [
+              {
+                "id": "15.1.1",
+                "title": "Z bezokolicznikiem",
+                "A1": [
+                  "Funkcja podmiotu (z ser/gustar): Hablar español es útil.",
+                  "Funkcja dopełnienia bliższego (z querer): Quiero ir a España."
+                ],
+                "A2": [
+                  "Funkcja podmiotu (z czasownikami psychologicznymi): Le encanta ir al cine.",
+                  "Funkcja dopełnienia rządu: Aprendo a hablar."
+                ]
+              },
+              {
+                "id": "15.1.2",
+                "title": "Z formą osobową",
+                "A1": [
+                  "Funkcja dopełnienia bliższego (z creer): Creo que es muy caro."
+                ],
+                "A2": []
+              }
+            ]
+          },
+          {
+            "id": "15.2",
+            "title": "Zdania podrzędne przymiotnikowe lub względne",
+            "A1": [],
+            "A2": [
+              "Określające z wyrażonym poprzednikiem: La profesora que tengo...",
+              "Zaimek względny 'que' (podmiot/dopełnienie bliższe)",
+              "Tryb oznajmujący (Indicativo)"
+            ]
+          },
+          {
+            "id": "15.3",
+            "title": "Zdania podrzędne przysłówkowe",
+            "topics": [
+              {
+                "id": "15.3.1",
+                "title": "Czasu",
+                "A1": [],
+                "A2": [
+                  "Uprzedniość: antes de + bezokolicznik",
+                  "Następczość: después de + bezokolicznik",
+                  "Jednoczesność: cuando + czas teraźniejszy",
+                  "Ograniczenie: desde, desde que, desde hace, hasta"
+                ]
+              },
+              {
+                "id": "15.3.4",
+                "title": "Przyczyny",
+                "A1": [
+                  "Wprowadzone przez 'porque': Estudio español porque mi novio es de Cáceres.",
+                  "Kontrast por qué / porque",
+                  "Tryb oznajmujący (Indicativo)"
+                ],
+                "A2": [
+                  "Równoważność z 'por': Trabajo por dinero.",
+                  "Relacja przyczyna-skutek: Como porque tengo hambre."
+                ]
+              },
+              {
+                "id": "15.3.5",
+                "title": "Celu",
+                "A1": [
+                  "Z bezokolicznikiem (użyteczność): un libro para aprender español.",
+                  "Spójniki: Para + bezokolicznik"
+                ],
+                "A2": [
+                  "Z bezokolicznikiem (cecha): comida para llevar (jedzenie na wynos)."
+                ]
+              },
+              {
+                "id": "15.3.6",
+                "title": "Warunkowe",
+                "A1": [],
+                "A2": [
+                  "Zdanie warunkowe (prótasis) i wynikowe (apódosis) w czasie teraźniejszym oznajmującym: Si quieres, puedes...",
+                  "Spójniki: Si (różnica z sí)"
+                ]
+              },
+              {
+                "id": "15.3.7",
+                "title": "Skutkowe",
+                "A1": [],
+                "A2": [
+                  "Współrzędne z 'entonces'",
+                  "Zestawione z 'por eso'",
+                  "Tryb oznajmujący (Indicativo)"
+                ]
+              },
+              {
+                "id": "15.3.8",
+                "title": "Porównawcze",
+                "A1": [],
+                "A2": [
+                  "Równości: tan... como, tanto/a/os/as... como, tanto... como",
+                  "Wyższości: más… que",
+                  "Niższości: menos… que",
+                  "Porównawcze nieregularne: mejor, peor, mayor, menor",
+                  "Sposobu: como (Juan es como su padre.)"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "spanishLevelB": {
+    "title": "Gramatyka. Inwentarz B1-B2",
+    "curriculum": [
+      {
+        "id": "1",
+        "title": "Rzeczownik",
+        "topics": [
+          {
+            "id": "1.1",
+            "title": "Rodzaje rzeczowników",
+            "topics": [
+              {
+                "id": "1.1.1",
+                "title": "Nazwy własne",
+                "B1": [
+                  "[zob. Ortografia 1.4.3.]",
+                  "Antroponimy: Nazwiska z rodzajnikiem do określania rodzin (los Fernández, los González)",
+                  "Toponimy: Obiekty geograficzne z obowiązkowym rodzajnikiem (el Ebro, los Pirineos, el Teide)",
+                  "Toponimy, które mogą mieć rodzajnik (la China / China, el Japón / Japón, las Canarias / Canarias)",
+                  "Tytuły dzieł stworzonych przez człowieka (Don Quijote de la Mancha, Las Meninas)"
+                ],
+                "B2": [
+                  "[zob. Ortografia 1.4.3.]",
+                  "Jednostki lub byty unikalne. Kontrast między wielkimi i małymi literami (la Tierra / la tierra, el Papa / el papa Juan Pablo II)",
+                  "[zob. Gramatyka 3.1.]"
+                ]
+              },
+              {
+                "id": "1.1.2",
+                "title": "Nazwy pospolite",
+                "B1": [
+                  "Rzeczowniki określające porcję/część (una loncha de queso, una pastilla de jabón)",
+                  "*dos [lonchas] de quesos, dos [latas] cocacolas, dos [botellines] aguas [pominięcie rzeczownika określającego porcję]"
+                ],
+                "B2": []
+              }
+            ]
+          },
+          {
+            "id": "1.2",
+            "title": "Rodzaj gramatyczny rzeczowników",
+            "B1": [
+              "Terminy o różnym rodzaju w odmianach hiszpańskiego (la bombilla / el bombillo)",
+              "Rzeczowniki o wspólnym rodzaju (la persona, la víctima, el delfín macho / hembra)",
+              "Zmiana rodzaju wyraża zmianę znaczenia: drzewo / owoc (el manzano / la manzana)",
+              "Rzeczowniki nieodmienne: rodzaj jest znany dzięki rodzajnikowi (el / la guía, el / la colega)",
+              "Rzeczowniki żeńskie zaczynające się na akcentowane a– z rodzajnikiem i określnikiem ilości w rodzaju męskim l. poj. (el aula, el agua)"
+            ],
+            "B2": [
+              "Rodzaj żeński na –triz, –ez, –dad, –ción, –sión, –tud, –umbre (la cicatriz, la vejez, la ciudad)"
+            ]
+          },
+          {
+            "id": "1.3",
+            "title": "Liczba rzeczowników",
+            "B1": [
+              "Singularia tantum (tylko l. poj.): Norte, Sur, Este, Oeste, sed, salud",
+              "Pluralia tantum (tylko l. mn.): ganas, facciones, ojeras",
+              "Słowa kończące się na –ay, –ey, –oy, –uey. /y/ spółgłoskowe w l. mn. (rey / reyes)",
+              "Nazwiska rodzin lub współczesnych rodów: l. poj. (los Machado, los Pérez)",
+              "[zob. Gramatyka 3.1.]"
+            ],
+            "B2": [
+              "Rzeczowniki nieodmienne, wielosylabowe, nieakcentowane na ostatniej sylabie, zakończone na –us, –sis, –tis (el virus / los virus)",
+              "Słowa akcentowane na ostatniej sylabie na samogłoskę (–á, –í, –ú) dopuszczają l. mn. na –s i –es (maniquíes, esquís)",
+              "Jednosylabowe: dopuszczają l. mn. na –s i –es (aes, kas)",
+              "Znaczenie l. mn.: Plurale leksykalne (las murallas, las escaleras, los intestinos)"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "title": "Przymiotnik",
+        "topics": [
+          {
+            "id": "2.1",
+            "title": "Rodzaje przymiotników",
+            "topics": [
+              {
+                "id": "2.1.1",
+                "title": "Przymiotniki jakościowe",
+                "B1": [
+                  "Możliwość dodawania przedrostków w przymiotnikach oceniających (agradable / desagradable, útil / inútil)"
+                ],
+                "B2": [
+                  "Koloru: Przybliżone (rojizo, amarillento, grisáceo)",
+                  "Funkcja orzecznika podmiotu (Ana llegó sudorosa.)"
+                ]
+              },
+              {
+                "id": "2.1.2",
+                "title": "Przymiotniki relacyjne",
+                "B1": [],
+                "B2": [
+                  "Ograniczenia leksykalno-syntaktyczne: niemożność określania ilości i pozycji przed rzeczownikiem (los cuidados maternos, *unos cuidados muy maternos)"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "2.2",
+            "title": "Rodzaj gramatyczny przymiotnika",
+            "B1": [],
+            "B2": [
+              "Przymiotniki z przyrostkami oceniającymi (grandón / grandona)",
+              "Zakończone na –a (hipócrita, homicida, cosmopolita)"
+            ]
+          },
+          {
+            "id": "2.4",
+            "title": "Pozycja przymiotnika",
+            "B1": [
+              "Przed rzeczownikiem: Apokopa (buen, mal, gran…)",
+              "Przed rzeczownikiem dla mejor, peor, mayor, menor (mayor seguridad)"
+            ],
+            "B2": [
+              "Przed rzeczownikiem z wartością emfatyczną (Es un grave problema.)",
+              "Zmiany znaczenia (un viejo amigo / un amigo viejo)",
+              "Pozycja po rzeczowniku: Przymiotniki relacyjne (un producto lácteo)"
+            ]
+          },
+          {
+            "id": "2.5",
+            "title": "Stopniowanie przymiotnika",
+            "B1": [
+              "Porównawczy: Wyrażenia równości jak 'igual de'",
+              "Najwyższy absolutny lub elatywny regularny: Przyrostek –ísimo (guapísimo)",
+              "Najwyższy względny: el más / menos... de"
+            ],
+            "B2": [
+              "Porównawczy: Porównawcze nieregularne łacińskie (superior, anterior)",
+              "Element porównania wprowadzony przez 'de' (Es más guapo de lo que me dijiste.)",
+              "Najwyższy absolutny z przedrostkami (superguapo, extrafino)",
+              "Najwyższy absolutny przez powtórzenie (María es alta, alta.)"
+            ]
+          },
+          {
+            "id": "2.6",
+            "title": "Metabaza przymiotnika (zmiana funkcji)",
+            "B1": [
+              "Substantywizacja (urzeczownikowienie) przez określnik (el grande, el azul)"
+            ],
+            "B2": [
+              "Substantywizacja przez zaimek nijaki 'lo' (lo interesante, lo bueno)"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "title": "Rodzajnik",
+        "topics": [
+          {
+            "id": "3.1",
+            "title": "Rodzajnik określony",
+            "B1": [
+              "Użycie anaforyczne skojarzeniowe (Cogió un libro y miró el índice.)",
+              "Użycie anaforyczne dyskursywne (Viajaremos a Marruecos. El viaje será en barco.)",
+              "Użycie endoforyczne z modyfikatorami ograniczającymi (Dibujó la cara de un niño.)",
+              "Obowiązkowy z nazwiskami rodzin i obiektami geograficznymi.",
+              "Współwystępowanie z zaimkiem dzierżawczym po rzeczowniku (la amiga mía).",
+              "Niezgodność ze zdaniami względnymi z bezokolicznikiem (*Tengo la cosa que decirte.)"
+            ],
+            "B2": [
+              "Wartość uogólniająca: Alternacja z nieokreślonym (El/Un bolígrafo se usa para escribir.)",
+              "Wartość rzeczownikotwórcza: 'lo' + przymiotnik/przyimek (lo interesante, lo de ayer)",
+              "Substantywizacja innych kategorii (el porqué, el cuándo).",
+              "Obowiązkowy w nazwach własnych unikalnych bytów."
+            ]
+          },
+          {
+            "id": "3.2",
+            "title": "Rodzajnik nieokreślony",
+            "B1": [
+              "Znaczenie nieokreśloności (bez wartości anaforycznej): un disco [inny] / el disco [ten sam]",
+              "Niezgodność z niepoliczalnymi (rekategoryzacja): un café [= filiżanka]",
+              "Niezgodność z 'cada' i 'cualquiera': *cada un amigo"
+            ],
+            "B2": [
+              "Wartość uogólniająca: podmiot ogólny lub abstrakcyjny (Un bolígrafo se usa...).",
+              "Wartość rzeczownikotwórcza: uno que sea de otro país.",
+              "Anaforyczne bez ścisłego odniesienia: No lo esperaba de un chico que estudia tan poco.",
+              "Zgodność z niepoliczalnymi, jeśli mają modyfikator: un agua muy clara.",
+              "Orzecznik z wartością emfatyczną i metaforyczną: Luis es un lince."
+            ]
+          },
+          {
+            "id": "3.3",
+            "title": "Brak określnika: rzeczowniki \"nagie\"",
+            "B1": [
+              "Niemożność bycia podmiotem przed czasownikiem (*Niños juegan en el patio.)",
+              "Niemożność interpretacji uogólniającej (*Gatos son inteligentes.)",
+              "Jako dopełnienie do tworzenia złożeń (silla de ruedas, lápiz de labios)."
+            ],
+            "B2": [
+              "Podmiot przed czasownikiem z przymiotnikiem lub w koordynacji (Fuertes tempestades...; Agua y vino...)",
+              "Z 'alguno' i 'ninguno' po rzeczowniku (No tiene pudor alguno.)",
+              "Z czasownikami półposiłkowymi do tworzenia złożonych orzeczeń (hacer noche, dar clase).",
+              "Nazwy zawodów (Se necesita camarero.)"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "title": "Zaimki wskazujące",
+        "B1": [
+          "Odnośnik jako zdanie lub wcześniejsza wypowiedź (No pienso eso.)",
+          "Możliwość kombinacji z innymi określnikami (estos otros)"
+        ],
+        "B2": [
+          "Anaforyczne dyskursywne (Pronunció unas palabras. Estas palabras...)",
+          "Nijaki jako kataforyczny dyskursywny (Escucha esto. - Słuchaj tego.)",
+          "Pozycja po rzeczowniku (los tiempos aquellos)"
+        ]
+      },
+      {
+        "id": "5",
+        "title": "Zaimki dzierżawcze",
+        "B1": [
+          "Opozycja zaimek dzierżawczy akcentowany z/bez rodzajnika (es mío / es el mío)",
+          "Opozycja akcentowany/nieakcentowany (mi amigo / un amigo mío)",
+          "Zastąpienie przez dativus possessivus (Le cortaron el pelo.)",
+          "Rzeczowniki, które wymagają argumentów (mi cuadro [namalowany przeze mnie]).",
+          "Kombinacja z innymi elementami (tres discos míos, Hay una carta tuya.)"
+        ],
+        "B2": [
+          "Opozycja akcentowany/nieakcentowany z 'ser' (Es mi sobrino. / Es sobrino mío.)",
+          "Wyrażenia stałe (¡Madre mía!, ¡Dios mío!)",
+          "Formuła formalna (Muy señor mío)",
+          "Zgodność z liczebnikami i określnikami ilości (mis cuatro hijos, tus muchas obligaciones)"
+        ]
+      },
+      {
+        "id": "6",
+        "title": "Określniki ilości",
+        "topics": [
+          {
+            "id": "6.1",
+            "title": "Właściwe określniki ilości",
+            "B1": [
+              "Liczebniki porządkowe od 11.",
+              "Uniwersalne: Cada (dystrybutywny, nieodmienny: cada alumno).",
+              "Nieuniwersalne twierdzące: Varios, algo, alguien, alguno.",
+              "Nieuniwersalne przeczące: Nada, nadie, ninguno (No vino ninguno.)",
+              "Stopniujące: más/menos de 20 euros.",
+              "Proporcjonalne: un poco, poco, algo (Lee poco / Lee un poco.)"
+            ],
+            "B2": [
+              "Liczebniki ułamkowe (mitad, tercio) i mnożne (doble, triple).",
+              "Uniwersalne: Cada z liczebnikami (tres de cada cinco), Cualquier, Cualquiera.",
+              "Nieuniwersalne twierdzące: Kontrast un / algún.",
+              "Stopniujące proporcjonalne: algo jako minimalizator (Es algo pesado.)"
+            ]
+          },
+          {
+            "id": "6.2",
+            "title": "Określniki ilościowe ogniskujące lub presuponujące",
+            "B1": [
+              "Wykluczające: Solo (Solo voy yo. - Tylko ja idę.)",
+              "Włączające: Incluso (Incluso él aceptó... - Nawet on się zgodził...)"
+            ],
+            "B2": []
+          },
+          {
+            "id": "6.3",
+            "title": "Struktury ilościowe",
+            "B1": [
+              "Struktury partytywne z 'mayoría' (La mayoría de los alumnos...).",
+              "Partytywne niewłaściwe (un montón de gente)."
+            ],
+            "B2": [
+              "Zgoda 'ad sensum' (według znaczenia) z partytywnymi (La mayoría... piensa / piensan)."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "title": "Zaimek",
+        "topics": [
+          {
+            "id": "7.1",
+            "title": "Zaimek osobowy",
+            "topics": [
+              {
+                "id": "7.1.1",
+                "title": "Zaimek w funkcji podmiotu",
+                "B1": [
+                  "Obecność, gdy są różne podmioty (Él quiere que vayas.)",
+                  "Brak z odniesieniem nieokreślonym (Llaman a la puerta.)",
+                  "Brak w bezokoliczniku z podmiotem współodniesieniowym (Él quiere ir.)"
+                ],
+                "B2": [
+                  "Brak, jeśli odniesienie jest dopełnieniem (Luis le pide a Ana que [ella] escriba.)",
+                  "Alternacja z czasownikami mowy, wątpliwości (Luis no dice que sea él.)"
+                ]
+              },
+              {
+                "id": "7.1.2",
+                "title": "Zaimki nieakcentowane dopełnienia bliższego (OD)",
+                "B1": [
+                  "Obecność z nieokreślonym poprzednikiem w innym zdaniu (Tengo coche, pero no lo uso.)",
+                  "Pozycja w peryfrazach (Empiezo a entenderlo. / Lo empiezo a entender.)"
+                ],
+                "B2": [
+                  "Nijaki 'lo' jako zamiennik orzecznika (Lo soy. Lo está.)",
+                  "Leísmo osoby.",
+                  "Obecność obowiązkowa z dopełnieniem bliższym na początku zdania (El alcohol ni lo prueba.)",
+                  "Współwystępowanie z zaimkiem akcentowanym dla emfazy (Quiero verla a ella...)"
+                ]
+              },
+              {
+                "id": "7.1.3",
+                "title": "Zaimki nieakcentowane dopełnienia dalszego (OI): seria me, te, le",
+                "B1": [
+                  "Wartość anaforyczna (tematyzacja): A Luis le doy el libro.",
+                  "[Meksyk, etc.] 'le' enklityczne emfatyczne (¡Ándale!)"
+                ],
+                "B2": [
+                  "Alternacja ze zmianą znaczenia (Toca el piano. / Le tocó la lotería.)",
+                  "Pozycja przed czasownikiem odmienionym, jeśli jest jego dopełnieniem (Te recomiendo venir.)"
+                ]
+              },
+              {
+                "id": "7.1.4",
+                "title": "Wartości zaimka 'se'",
+                "B1": [
+                  "Zaimek dopełnienia dalszego (OI) przed klitykiem dopełnienia bliższego (OD) (Se lo doy.)",
+                  "Zaimek wzajemny (Se quieren.)",
+                  "Forma w zdaniach bezosobowych i stronie biernej zwrotnej (Se come bien. Se venden pisos.)"
+                ],
+                "B2": [
+                  "Różnicowanie semantyczne w czasownikach ruchu (Me voy / Voy.)",
+                  "Strona medialna (Se abrió la ventana.)",
+                  "'Se' + me/te/le łagodzące odpowiedzialność (Se me perdió tu dinero.)"
+                ]
+              },
+              {
+                "id": "7.1.5",
+                "title": "Kombinacja zaimków nieakcentowanych",
+                "B1": [
+                  "Hierarchia kolejności (OI + OD): Te las di. Me lo dio.",
+                  "Obowiązkowa pronominalizacja dopełnienia dalszego (Se lo di a Juan.)",
+                  "Klityki razem w peryfrazach (Voy a decírselo. / Se lo voy a decir.)"
+                ],
+                "B2": [
+                  "Pełna hierarchia kolejności: (se) + (2. os.) + (1. os.) + (3. os.) (Se os cayó. Se me perdió.)"
+                ]
+              },
+              {
+                "id": "7.1.6",
+                "title": "Zaimki akcentowane jako dopełnienia przyimkowe",
+                "B1": [
+                  "Wyjątki z przyimkami: entre, hasta, según (según tú)"
+                ],
+                "B2": []
+              }
+            ]
+          },
+          {
+            "id": "7.2",
+            "title": "Zaimki względne",
+            "B1": [
+              "'Que': Opozycja que/quien (el chico que saludaste / a quien saludaste)",
+              "Przysłówki względne"
+            ],
+            "B2": [
+              "'Que' w zdaniach względnych wtrąconych (Esa chica, que es mi vecina...)",
+              "'el que', 'la que', etc. poprzedzone przyimkiem (Los chicos de los que te hablé.)",
+              "'Quien/quienes' z lub bez wyrażonego poprzednika (Ese profesor, de quien me hablaste...)"
+            ]
+          },
+          {
+            "id": "7.3",
+            "title": "Zaimki pytające",
+            "B1": [
+              "'Qué' poprzedzone przyimkiem (¿Con qué escribes?)",
+              "Opozycja qué/cuál",
+              "'Quién/quiénes' poprzedzone przyimkiem (¿Con quién trabajas?)",
+              "'Cuál/cuáles' (¿Cuál libro quieres? -> niepoprawne)"
+            ],
+            "B2": [
+              "Pozycja niepoczątkowa w pytaniach echa (¿Luis dijo qué?)",
+              "'Quién de', 'Cuántos de' z wartością partytywną.",
+              "Kolejność elementów z zaimkami pytającymi.",
+              "Zaimki pytające skoordynowane (¿Dónde y cuándo...?)"
+            ]
+          },
+          {
+            "id": "7.4",
+            "title": "Zaimki wykrzyknikowe",
+            "B1": [
+              "'Qué' z przysłówkiem i czasownikiem (¡Qué bien habla español!)",
+              "'Qué' z rzeczownikiem i zintensyfikowanym przymiotnikiem (¡Qué amigo más simpático!)"
+            ],
+            "B2": [
+              "'Qué' z następującym zdaniem podrzędnym (¡Qué bien que estés aquí!)",
+              "'Cómo' z czasownikiem (¡Cómo canta!)",
+              "'Cuánto' z czasownikiem lub rzeczownikiem (¡Cuánto sabe! ¡Cuántos amigos tiene!)",
+              "'Quién' nieodmienny (¡Quién podía imaginarlo!)"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "8",
+        "title": "Przysłówek i wyrażenia przysłówkowe",
+        "topics": [
+          {
+            "id": "8.1",
+            "title": "Przysłówki na -mente",
+            "B1": [
+              "Ograniczenia: przymiotniki relacyjne (*alemanamente)"
+            ],
+            "B2": [
+              "Ograniczenia: przymiotniki zaimkowe, odczasownikowe na -ble, -do, -nte"
+            ]
+          },
+          {
+            "id": "8.2",
+            "title": "Przysłówki nuklearne lub orzeczenia",
+            "B1": [
+              "Czasu: odległość nieokreślona (anteriormente, últimamente), orientacja deiktyczna/anaforyczna (dentro de dos días, la semana anterior).",
+              "Ilości: ruch w grupie werbalnej (Has trabajado mucho hoy / hoy mucho), poco / un poco.",
+              "Sposobu: działania (fácilmente), oceny (estupendamente), wynikowe (totalmente), sprawcze (atentamente)."
+            ],
+            "B2": [
+              "Miejsca: kombinacja (allí encima), kwantyfikacja (muy lejos / *muy encima).",
+              "Czasu: relacja czasowa (inmediatamente), charakterystyka aspektualna (definitivamente, continuamente).",
+              "Sposobu: przysłówek zaimkowy 'así' (kataforyczny).",
+              "Okoliczniki obowiązkowe ze zmianą znaczenia (tratar bien / tratar un tema)."
+            ]
+          },
+          {
+            "id": "8.3",
+            "title": "Przysłówki zewnętrzne wobec dictum",
+            "B1": [
+              "Częstotliwości nieokreślonej (habitualmente, frecuentemente).",
+              "Częstotliwości określonej (diariamente, anualmente)."
+            ],
+            "B2": [
+              "Oceniające: konieczności (necesariamente), emocjonalne (afortunadamente), działania (inteligentemente).",
+              "Przysłówek jako temat (Personalmente, a mí me gustan...)"
+            ]
+          },
+          {
+            "id": "8.4",
+            "title": "Przysłówki modalne",
+            "B1": [
+              "Wskaźniki modalności (Posiblemente lleguemos...).",
+              "Wskaźniki postawy wątpliwości z trybem oznajmującym/łączącym (Seguramente no está / esté)."
+            ],
+            "B2": [
+              "Wskaźniki postawy wątpliwości z trybem łączącym (Probablemente no hubiera venido).",
+              "Wzmacniające prawdziwość (sin duda, indudablemente).",
+              "Przysłówki metajęzykowe (concretamente, resumidamente)."
+            ]
+          },
+          {
+            "id": "8.5",
+            "title": "Przysłówki łączące",
+            "B1": [
+              "Wzmacniające koordynację (y además bonito).",
+              "Odcień przeciwstawny: menos.",
+              "'Así' z odcieniem skutkowym (Ven a verme, así hablamos.)"
+            ],
+            "B2": [
+              "Kontynuacyjne dygresyjne (precisamente, a propósito)"
+            ]
+          },
+          {
+            "id": "8.6",
+            "title": "Fokalizatory (ograniczające)",
+            "B1": [
+              "Szczegółujące: sobre todo (przede wszystkim)",
+              "Wykluczające: solo, solamente (tylko)"
+            ],
+            "B2": [
+              "Szczegółujące: particularmente, especialmente",
+              "Fokalizatory wzmacniające: justamente, precisamente"
+            ]
+          },
+          {
+            "id": "8.7",
+            "title": "Intensyfikatory",
+            "B1": [
+              "Totalmente, realmente, verdaderamente (całkowicie, naprawdę, prawdziwie)"
+            ],
+            "B2": [
+              "Z wartością ilościową: ligeramente, absolutamente (lekko, absolutnie)"
+            ]
+          },
+          {
+            "id": "8.8",
+            "title": "Przysłówki względne i pytające",
+            "B1": [
+              "Względny 'como' z trybem oznajmującym.",
+              "Względny 'cuando' z trybem oznajmującym i łączącym.",
+              "Względny 'donde' z trybem oznajmującym.",
+              "Pytający 'adónde'.",
+              "Kontrasty ortograficzne: como/cómo, donde/dónde, cuando/cuándo"
+            ],
+            "B2": [
+              "Względny 'como' z trybem łączącym.",
+              "Względny 'donde' w zdaniach określających i wtrąconych.",
+              "Względny 'adonde' w zdaniach określających."
+            ]
+          },
+          {
+            "id": "8.9",
+            "title": "Wyrażenia przysłówkowe",
+            "B1": [
+              "[Ameryka Łacińska] Użycie 'no más' (eso no más, ahí no más)"
+            ],
+            "B2": []
+          }
+        ]
+      },
+      {
+        "id": "9",
+        "title": "Czasownik",
+        "topics": [
+          {
+            "id": "9.1",
+            "title": "Czasy trybu oznajmującego (Indicativo)",
+            "topics": [
+              {
+                "id": "9.1.1",
+                "title": "Czas teraźniejszy (Presente)",
+                "B1": [
+                  "Wartość gnomiczna lub ogólna (Dos y dos son cuatro.)",
+                  "Teraźniejszy w zdaniach warunkowych z wartością aktualną/przyszłą (Si lloras...; Si vienes...)"
+                ],
+                "B2": [
+                  "Wartość normatywna lub rozkazująca (Miras por aquí y pulsas...)",
+                  "Wartość przeszłości do aktualizowania informacji (Le llamo y me cuelga...)"
+                ]
+              },
+              {
+                "id": "9.1.2",
+                "title": "Czas przeszły niedokonany (Pretérito imperfecto)",
+                "B1": [
+                  "Akcja przerwana (Iba y me encontré...).",
+                  "Imperfecto próby (Iba a salir cuando...).",
+                  "Imperfecto grzecznościowe (Quería un jersey...).",
+                  "Mowa zależna (Dijo que tenía sueño.)"
+                ],
+                "B2": [
+                  "Akcja przerwana w sposób dorozumiany (¿Qué os estaba diciendo?)",
+                  "Myśl przerwana (Pensaba ir al cine [ale nie idę].)",
+                  "Wartość zabawowa i oniryczna (Jugamos a que éramos...; Soñé que estaba...)"
+                ]
+              },
+              {
+                "id": "9.1.3",
+                "title": "Czas przeszły dokonany prosty (Pretérito indefinido)",
+                "B1": [
+                  "Nieregularności samogłoskowe, spółgłoskowe, fonetyczne i ortograficzne.",
+                  "Mocne formy.",
+                  "Z czasownikami nieaspektualnymi (Lo supe.)"
+                ],
+                "B2": []
+              },
+              {
+                "id": "9.1.4",
+                "title": "Czas przyszły prosty (Futuro imperfecto)",
+                "B1": [
+                  "Forma i nieregularności.",
+                  "Akcje przyszłe absolutne (Iré mañana.)",
+                  "Futuro prawdopodobieństwa (Serán las once.)"
+                ],
+                "B2": [
+                  "Futuro nieprecyzyjne z 'ya' (Ya veremos.)"
+                ]
+              },
+              {
+                "id": "9.1.5",
+                "title": "Tryb warunkowy prosty (Condicional simple)",
+                "B1": [
+                  "Forma i nieregularności.",
+                  "Warunkowy grzecznościowy (¿Podría hablar...?)",
+                  "Warunkowy skromności (Yo diría que...).",
+                  "Wartość sugestii (Deberías acostarte.)"
+                ],
+                "B2": [
+                  "Wartość prawdopodobieństwa w przeszłości (Serían las once.)",
+                  "Następczość w stosunku do momentu w przeszłości (Dijo que vendría.)",
+                  "Hipoteza w zdaniach warunkowych nierealnych (Si pudiera, iría.)",
+                  "Wartość życzeniowa (Me comería un helado.)"
+                ]
+              },
+              {
+                "id": "9.1.6",
+                "title": "Czas przeszły dokonany złożony (Pretérito perfecto)",
+                "B1": [
+                  "Mocne imiesłowy nieregularne w czasach złożonych.",
+                  "Wskaźniki egzystencjalne (Nunca he estado allí [w moim życiu].)",
+                  "Pojęcie teraźniejszości rozszerzonej (Hace media hora que se ha ido / fue.)"
+                ],
+                "B2": []
+              },
+              {
+                "id": "9.1.8",
+                "title": "Czas zaprzeszły (Pretérito pluscuamperfecto)",
+                "B1": [
+                  "Wartość ogólna: uprzedniość w stosunku do innej akcji przeszłej (Cuando llegamos ya se había ido.)"
+                ],
+                "B2": [
+                  "Myśl przerwana w przeszłości (Había pensado ir al cine [ale nie poszedłem].)"
+                ]
+              },
+              {
+                "id": "9.1.9",
+                "title": "Czas przyszły złożony (Futuro perfecto)",
+                "B1": [],
+                "B2": [
+                  "Wartość ogólna: uprzedniość w stosunku do akcji przyszłej (Cuando lleguemos ya se habrá ido.)",
+                  "Futuro prawdopodobieństwa w przeszłości (Habrá tenido problemas.)"
+                ]
+              },
+              {
+                "id": "9.1.10",
+                "title": "Tryb warunkowy złożony (Condicional compuesto)",
+                "B1": [],
+                "B2": [
+                  "Prawdopodobieństwo w przeszłości z uprzedniością (Habrían salido de casa.)",
+                  "Korelacja czasowa (Dijo que habría venido.)",
+                  "Hipoteza w zdaniach warunkowych nierealnych przeszłych (Si hubiera podido, habría ido.)",
+                  "Wartość życzeniowa w przeszłości (Me habría comido un helado.)"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "9.2",
+            "title": "Czasy trybu łączącego (Subjuntivo)",
+            "topics": [
+              {
+                "id": "9.2.1",
+                "title": "Czas teraźniejszy (Presente)",
+                "B1": [
+                  "Forma i nieregularności.",
+                  "W zdaniach niezależnych (Ojalá que tengas suerte. Quizá vaya.)",
+                  "W zdaniach podrzędnych z czasownikiem głównym wyrażającym życzenie (Quiero que vengas.)",
+                  "Mowa zależna (Dice que me siente.)",
+                  "Konstrukcje bezosobowe oceniające (Es bueno que estudies.)",
+                  "W zdaniach podrzędnych czasu i celu (antes de que llueva, para que lo uses)."
+                ],
+                "B2": [
+                  "W zdaniach niezależnych (ukryta mowa zależna: Que te vayas.)",
+                  "Wartość nieznajomości w zdaniach względnych, miejsca i sposobu (Busco un libro que sea...; Voy donde me digas.)",
+                  "Konstrukcje bezosobowe przeczące pewności (No es cierto que lo sepa.)",
+                  "Z czasownikami opinii w formie przeczącej (No creo que estés bien.)",
+                  "W zdaniach podrzędnych czasu z odcieniem następczości (Apenas sepa algo...)."
+                ]
+              },
+              {
+                "id": "9.2.2",
+                "title": "Czas przeszły niedokonany (Pretérito imperfecto)",
+                "B1": [
+                  "Forma -ra i -se, oraz nieregularności.",
+                  "W zdaniach niezależnych wyrażających życzenie/wątpliwość (Ojalá tuviera...; Tal vez fuera...)",
+                  "Imperfecto grzecznościowe (Quisiera ver...)",
+                  "W zdaniach podrzędnych z czasownikiem głównym w czasie przeszłym."
+                ],
+                "B2": []
+              },
+              {
+                "id": "9.2.3",
+                "title": "Czas przeszły dokonany (Pretérito perfecto)",
+                "B1": [],
+                "B2": [
+                  "Odpowiedniość z pret. perfecto de indicativo (No es verdad que haya escrito...)",
+                  "Zastąpienie przez presente de subjuntivo w zdaniach czasowych przyszłych (Cuando se haya marchado / se marche...)"
+                ]
+              },
+              {
+                "id": "9.2.4",
+                "title": "Czas zaprzeszły (Pretérito pluscuamperfecto)",
+                "B1": [],
+                "B2": [
+                  "Forma i użycie zorientowane na współrzędne przeszłości."
+                ]
+              }
+            ]
+          },
+          {
+            "id": "9.3",
+            "title": "Tryb rozkazujący (Imperativo)",
+            "B1": [
+              "Położenie zaimków enklitycznych (díselo).",
+              "Tryb rozkazujący przeczący (zbieżny z presente de subjuntivo).",
+              "Wartość prośby, sugestii, akceptacji/zaproszenia, rozkazu/polecenia."
+            ],
+            "B2": [
+              "Wartość pilności (Corre, corre...).",
+              "Rozkazy zleksykalizowane wyrażające zachętę, zaskoczenie.",
+              "Środki do wzmacniania lub łagodzenia rozkazu."
+            ]
+          },
+          {
+            "id": "9.4",
+            "title": "Formy nieosobowe czasownika",
+            "topics": [
+              {
+                "id": "9.4.1",
+                "title": "Bezokolicznik (Infinitivo)",
+                "B1": [
+                  "Podmiot domyślny (Yo quiero ver...).",
+                  "Rozkazy uogólniające (No fumar - Zakaz palenia).",
+                  "W zdaniach podrzędnych pytających zależnych (No sé qué hacer. - Nie wiem, co zrobić.)"
+                ],
+                "B2": [
+                  "Podmiot domyślny kontrolowany przez dopełnienie bliższe (El profesor recomendó al estudiante trabajar...).",
+                  "Bezokolicznik złożony (por no haber estudiado).",
+                  "Rozkazy z 'a' (A comer. - Do jedzenia!)"
+                ]
+              },
+              {
+                "id": "9.4.2",
+                "title": "Imiesłów czynny (Gerundio)",
+                "B1": [
+                  "Położenie zaimków.",
+                  "Jako odpowiedź (Estudiando. - Ucząc się.).",
+                  "Wartość przysłówkowa sposobu (Aprende leyendo. - Uczy się, czytając.)"
+                ],
+                "B2": [
+                  "Wartość czasowa (yendo por la calle).",
+                  "Orzecznik podmiotu lub dopełnienia (habló tartamudeando, Tengo el cuerpo temblando.)"
+                ]
+              },
+              {
+                "id": "9.4.3",
+                "title": "Imiesłów bierny (Participio)",
+                "B1": [
+                  "Dopełnienie orzekające (Me miró satisfecho. Encontré la tienda cerrada.)"
+                ],
+                "B2": [
+                  "Dopełnienie orzekające z dopełnieniami (sorprendido de mi respuesta).",
+                  "W stronie biernej czynności (Las puertas serán abiertas...)"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "10",
+        "title": "Fraza rzeczownikowa (Grupa nominalna)",
+        "topics": [
+          {
+            "id": "10.1",
+            "title": "Rdzeń",
+            "B1": [
+              "Grupa nominalna z elipsą rdzenia w koordynacji (Mi libro y el de Juan)."
+            ],
+            "B2": [
+              "Grupa nominalna z elipsą rdzenia w anaforach kontekstowych (Este de la derecha)."
+            ]
+          },
+          {
+            "id": "10.2",
+            "title": "Dopełnienia i modyfikatory",
+            "B1": [
+              "Dopełnienia ograniczające z posiadaniem niezbywalnym (la chica de los ojos azules).",
+              "Dopełnienia argumentowe (la construcción del edificio).",
+              "Apozycja wtrącona (Juan, mi hermano, es ingeniero.)"
+            ],
+            "B2": [
+              "Dopełnienia ograniczające z interpretacją subiektywną/obiektywną (tus informes).",
+              "Dopełnienia nieograniczające (la chica, de ojos tristes,...).",
+              "Imiesłowy bierne ze znaczeniem pasywnym (El presidente elegido)."
+            ]
+          },
+          {
+            "id": "10.4",
+            "title": "Zgoda grupy nominalnej z czasownikiem",
+            "B1": [
+              "[Ameryka] Czasownik w l. mn. z podmiotem w l. poj. + 'con' (Cantamos con él [=Yo canté con él].)"
+            ],
+            "B2": [
+              "Zgoda ze zbiorowością (Vino / vinieron un grupo...).",
+              "Zgoda z wyliczeniami i koordynacjami (rozłącznymi/przeczącymi).",
+              "Liczba mnoga ze znaczeniem jednostkowym (La entrada y salida de coches es...)"
+            ]
+          },
+          {
+            "id": "10.5",
+            "title": "Wołacz (Vocativo)",
+            "B1": [],
+            "B2": [
+              "W pozycji środkowej z wartością emfatyczną (Repito, Juan, que te equivocas.)"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "11",
+        "title": "Fraza przymiotnikowa (Grupa przymiotnikowa)",
+        "topics": [
+          {
+            "id": "11.2",
+            "title": "Dopełnienia i modyfikatory",
+            "B1": [
+              "Dopełnienia przysłówkowe lub wyrażenia (vacío por dentro).",
+              "Modyfikatory mnożne (el doble de).",
+              "Niezgodność przymiotników elatywnych z określnikami ilości (*muy enorme).",
+              "Przysłówki na –mente (increíblemente bueno)."
+            ],
+            "B2": [
+              "Dopełnienia nominalne z przyimkiem (difícil de leer).",
+              "Przymiotniki odczasownikowe (partidario de un cambio).",
+              "Dopełnienia zdaniowe z bezokolicznikiem lub czasownikiem odmienionym (interesado en asistir, interesado en que vengas).",
+              "Modyfikatory z przysłówkami na -mente i stopniującymi (indudablemente muy necesario)."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "12",
+        "title": "Fraza czasownikowa (Grupa werbalna)",
+        "topics": [
+          {
+            "id": "12.1",
+            "title": "Rdzeń",
+            "B1": [
+              "Identyfikacja peryfraz czasownikowych.",
+              "Peryfrazy modalne (soler) i aspektualne (volver a, dejar de, ponerse a, estar a punto de, seguir).",
+              "Ser bez przymiotnika (bezosobowe, konstrukcje z podmiotem zdaniowym).",
+              "Estar bez przymiotnika (zawód tymczasowy, zmienne ceny).",
+              "Warianty syntaktyczne z 'parecer'."
+            ],
+            "B2": [
+              "Strona bierna stanu vs. strona bierna czynności.",
+              "Peryfrazy modalne (deber de) i aspektualne (ponerse a).",
+              "Ser bez przymiotnika (lokalizacja zdarzeń).",
+              "Ser/Estar + przymiotnik ze zmianą znaczenia (listo, verde).",
+              "Czasowniki pseudokopulatywne zmiany (ponerse, quedarse, hacerse, volverse)."
+            ]
+          },
+          {
+            "id": "12.2",
+            "title": "Dopełnienia",
+            "topics": [
+              {
+                "id": "12.2.1",
+                "title": "Orzecznik (Atributo)",
+                "B1": [
+                  "Zgoda czasownik l.poj.-orzecznik l.mn. (Lo que más me gusta son las vacaciones.)"
+                ],
+                "B2": [
+                  "Zastąpienie przez 'lo'.",
+                  "Orzecznik jako bezokolicznik lub zdanie względne.",
+                  "Zaimek 'lo' tematyzujący (Lo está.)"
+                ]
+              },
+              {
+                "id": "12.2.3",
+                "title": "Dopełnienie dalsze (Objeto indirecto)",
+                "B1": [
+                  "Podwojenie dopełnienia dalszego (Le he regalado un bolso a María.)"
+                ],
+                "B2": [
+                  "Dopełnienie dalsze jako zdanie względne.",
+                  "Czasowniki nieprzechodnie rządzące celownikiem (Le telefoneé.)"
+                ]
+              },
+              {
+                "id": "12.2.4",
+                "title": "Okoliczniki (Complementos circunstanciales)",
+                "B1": [
+                  "Okolicznik jako zdanie w trybie oznajmującym lub łączącym (Viene cuando puede. / Vendrá cuando pueda.)"
+                ],
+                "B2": []
+              },
+              {
+                "id": "12.2.5",
+                "title": "Dopełnienie przyimkowe rządu",
+                "B1": [
+                  "Z częstymi czasownikami (hablar de, pensar en).",
+                  "Podwójne dopełnienie (Me invitó a cenar.)"
+                ],
+                "B2": [
+                  "Z czasownikami z następującym bezokolicznikiem (decidirse a ir).",
+                  "Dopełnienie jako zdanie podrzędne (contar con que vengas).",
+                  "Konstrukcje rządzące przyimkiem (darse cuenta de)."
+                ]
+              },
+              {
+                "id": "12.2.6",
+                "title": "Dopełnienie orzekające",
+                "B1": [],
+                "B2": [
+                  "Zgoda dopełnienie orzekające-podmiot (Ella ha llegado cansada.)",
+                  "Zgoda dopełnienie orzekające-dopełnienie bliższe (Le he dado el trabajo terminado.)"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "13",
+        "title": "Zdanie pojedyncze",
+        "topics": [
+          {
+            "id": "13.1",
+            "title": "Zgoda (Concordancia)",
+            "B1": [
+              "Zgoda zbiorowości (Ese grupo de alumnos... es muy bueno.)"
+            ],
+            "B2": [
+              "Zgoda z dopełnieniem orzekającym (Las aguas corrían turbias.)",
+              "Zgoda grupy nominalnej w l.mn. z czasownikiem w 1./2. osobie (Los españoles pensamos...)"
+            ]
+          },
+          {
+            "id": "13.2",
+            "title": "Składniki",
+            "B1": [
+              "Przesunięcie podmiotu na koniec jako nowa informacja (Esta mañana ha llegado una carta.)"
+            ],
+            "B2": [
+              "Obowiązkowe przesunięcie podmiotu bez określnika na koniec (Han llegado trenes.)"
+            ]
+          },
+          {
+            "id": "13.3",
+            "title": "Typy zdań pojedynczych",
+            "B1": [
+              "Wątpiące z trybem oznajmującym (A lo mejor viene.)",
+              "Wzajemne (Se quieren mucho.)",
+              "Bezosobowe (Nieva. Llueve.)",
+              "Bezosobowe i strona bierna zwrotna (Se come bien. Se vende piso.)"
+            ],
+            "B2": [
+              "Wątpiące z trybem łączącym/oznajmującym (Quizá tengas razón.)",
+              "Życzące (¡Ojalá venga!)",
+              "Strona bierna peryfrastyczna (La obra será expuesta...)"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "14",
+        "title": "Zdania złożone współrzędnie",
+        "topics": [
+          {
+            "id": "14.1",
+            "title": "Łączne (Copulativas)",
+            "B1": [
+              "Przeczące z 'ni' (Ni lo he visto ni me ha llamado.)"
+            ],
+            "B2": []
+          },
+          {
+            "id": "14.3",
+            "title": "Przeciwstawne (Adversativas)",
+            "B1": [
+              "Z 'sin embargo' (Acepté; sin embargo, no estaba seguro.)",
+              "Z 'aunque' (równoważne z pero).",
+              "Z 'sino', 'no obstante'."
+            ],
+            "B2": []
+          }
+        ]
+      },
+      {
+        "id": "15",
+        "title": "Zdania złożone podrzędnie",
+        "topics": [
+          {
+            "id": "15.1",
+            "title": "Zdania podrzędne rzeczownikowe",
+            "topics": [
+              {
+                "id": "15.1.1",
+                "title": "Z bezokolicznikiem",
+                "B1": [
+                  "W funkcji podmiotu (z czasownikami przechodnimi, wyrażeniami, orzecznikami).",
+                  "W funkcji dopełnienia bliższego (z czasownikami wpływu)."
+                ],
+                "B2": [
+                  "W funkcji dopełnienia przyimkowego (Me niego a responder.)",
+                  "W funkcji orzecznika (Eso es bailar.)"
+                ]
+              },
+              {
+                "id": "15.1.2",
+                "title": "Z formą osobową",
+                "B1": [
+                  "W funkcji podmiotu (z czasownikami uczuć, atrybutywnymi).",
+                  "W funkcji dopełnienia bliższego (z czasownikami myślenia, życzenia, emocji)."
+                ],
+                "B2": [
+                  "W funkcji podmiotu (z czasownikami zdarzenia, istnienia).",
+                  "W funkcji dopełnienia bliższego (z czasownikami mowy, percepcji, wpływu, sprawczymi)."
+                ]
+              }
+            ]
+          },
+          {
+            "id": "15.2",
+            "title": "Zdania podrzędne przymiotnikowe lub względne",
+            "B1": [
+              "Określające: ograniczenia z nazwami własnymi, zaimkami dzierżawczymi, poprzednikami zdaniowymi.",
+              "Zaimki względne: que/quien.",
+              "Tryb oznajmujący."
+            ],
+            "B2": [
+              "Określające (z/bez poprzednika), wtrącone, orzekające.",
+              "Zaimki względne: el/la/los/las que, quien/quienes.",
+              "Przysłówki względne.",
+              "Kontrast tryb oznajmujący/łączący.",
+              "Koordynacja zdań względnych."
+            ]
+          },
+          {
+            "id": "15.3",
+            "title": "Zdania podrzędne przysłówkowe",
+            "topics": [
+              {
+                "id": "15.3.1",
+                "title": "Czasu",
+                "B1": [
+                  "Uprzedniość: antes de + bezokolicznik, antes (de) que + subj.",
+                  "Następczość: después de + bezokolicznik, después (de) que + subj.",
+                  "Jednoczesność: al + bezokolicznik, cuando, mientras.",
+                  "Ograniczenie: hasta que.",
+                  "Ruchomość i interpretacja podmiotu zerowego."
+                ],
+                "B2": [
+                  "Następczość z 'en cuanto', 'una vez', 'nada más'.",
+                  "Jednoczesność z 'mientras tanto', etc.",
+                  "Ograniczenie z 'hasta hace'.",
+                  "Odniesienie podmiotu zaimkowego."
+                ]
+              },
+              {
+                "id": "15.3.2",
+                "title": "Miejsca",
+                "B1": [
+                  "Cel z 'donde' + tryb oznajmujący."
+                ],
+                "B2": [
+                  "Pochodzenie, cel, kierunek, tranzyt z 'donde' + tryb oznajmujący/łączący."
+                ]
+              },
+              {
+                "id": "15.3.3",
+                "title": "Sposobu",
+                "B1": [
+                  "Wprowadzone przez 'como' z trybem oznajmującym."
+                ],
+                "B2": [
+                  "Wprowadzone przez 'como' z trybem łączącym.",
+                  "Wprowadzone przez 'según' z trybem oznajmującym/łączącym."
+                ]
+              },
+              {
+                "id": "15.3.4",
+                "title": "Przyczyny",
+                "B1": [
+                  "Spójniki: Como, Por (+ bezokolicznik).",
+                  "Tryb oznajmujący."
+                ],
+                "B2": [
+                  "Typy: wypowiedzi (wyjaśniające, hipotetyczne).",
+                  "Spójniki: porque, debido a que, ya que, puesto que."
+                ]
+              },
+              {
+                "id": "15.3.5",
+                "title": "Celu",
+                "B1": [
+                  "Typy zintegrowane (dopełnienie rzeczownika, przymiotnika, czasownika).",
+                  "Wartości: użyteczność.",
+                  "Spójniki: para + bezokolicznik, para que.",
+                  "Kontrast por/para."
+                ],
+                "B2": [
+                  "Wartości: kontrast (sekwencja chronologiczna), konsekwencja.",
+                  "Spójniki: para + bezokolicznik (początkowy), para que, a (que), a fin de (que)."
+                ]
+              },
+              {
+                "id": "15.3.6",
+                "title": "Warunkowe",
+                "B1": [
+                  "Prótasis w trybie oznajmującym (teraźniejszy).",
+                  "Apódosis w czasie teraźniejszym, przyszłym lub trybie rozkazującym.",
+                  "Typy: realne w teraźniejszości lub przyszłości."
+                ],
+                "B2": [
+                  "Prótasis w trybie oznajmującym (przeszły) lub łączącym (imperfecto/pluscuamperfecto).",
+                  "Korelacja czasów i trybów.",
+                  "Typy: hipotetyczne (nierealne w teraźniejszości/przeszłości).",
+                  "Spójniki: si, por si (acaso), siempre que, a no ser que, etc."
+                ]
+              },
+              {
+                "id": "15.3.7",
+                "title": "Skutkowe",
+                "B1": [
+                  "Współrzędne: entonces, o sea que, así (es) que.",
+                  "Tryb oznajmujący lub rozkazujący."
+                ],
+                "B2": [
+                  "Zestawione: por (lo) tanto, en consecuencia.",
+                  "Podrzędne intensywności: tan(to)... que.",
+                  "Podrzędne sposobu: de (un) modo/manera que."
+                ]
+              },
+              {
+                "id": "15.3.8",
+                "title": "Porównawcze",
+                "B1": [
+                  "Równości: igual de... que.",
+                  "Wyższości: más... que, el más/menos... de.",
+                  "Niższości: menos... que.",
+                  "Ilości: más/menos... de, no más/menos... de."
+                ],
+                "B2": [
+                  "Równości: tan... como, tanto... como, lo mismo que, igual que.",
+                  "Wyższości: nieregularne (superior a), mnożne (el doble de).",
+                  "Niższości: nieregularne (inferior a), ułamkowe (la mitad).",
+                  "Ilości: no más que, nada más que."
+                ]
+              },
+              {
+                "id": "15.3.9",
+                "title": "Przyzwalające",
+                "B1": [
+                  "Właściwe faktyczne z 'aunque' + tryb oznajmujący."
+                ],
+                "B2": [
+                  "Właściwe niefaktyczne.",
+                  "Niewłaściwe (przyzwalająco-warunkowe).",
+                  "Spójniki: aunque, a pesar de, tanto si... como si..., por más/mucho que, y eso que."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "spanishLevelC": {
+    "title": "Gramatyka. Inwentarz C1-C2",
+    "curriculum": [
+      {
+        "id": "1",
+        "title": "Rzeczownik",
+        "topics": [
+          {
+            "id": "1.1",
+            "title": "Rodzaje rzeczowników",
+            "topics": [
+              {
+                "id": "1.1.1",
+                "title": "Nazwy własne",
+                "C1": [
+                  "[zob. Ortografia 1.4.3.]",
+                  "Antroponimy: Nazwiska rodzin, dynastii lub starożytnych rodów: l. mn. (los Escipiones, los Borbones)",
+                  "[zob. Gramatyka 1.3.]"
+                ],
+                "C2": [
+                  "[zob. Ortografia 1.4.3.]",
+                  "Antroponimy: Imiona z rodzajnikiem lub innym określnikiem (la Merche, la Ana a la que yo me refiero, Esta Ana)",
+                  "Nazwiska z rodzajnikiem (el Banderas, la Jurado)",
+                  "Przezwiska i pseudonimy (el Mochuelo, el Roto)",
+                  "Toponimy z rodzajnikiem lub innym określnikiem (el Madrid de los Austrias, los madriles)",
+                  "Formy grzecznościowe (Su Majestad, Su Excelencia)"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "1.2",
+            "title": "Rodzaj gramatyczny rzeczowników",
+            "C1": [
+              "Zmiana rodzaju wyraża zmianę znaczenia: Indywidualny / zbiorowy (el leño / la leña), Duży / mały (el huerto / la huerta), Całkowicie inne znaczenie (el frente / la frente)",
+              "Rzeczowniki dwurodzajowe: męskie i żeńskie (el mar / la mar, el color / la color, el azúcar / la azúcar)"
+            ],
+            "C2": [
+              "[Ameryka Łacińska] Tendencja do rozróżniania rodzaju pewnych rzeczowników, które nie mają oznaczenia rodzaju w standardowym hiszpańskim i do tworzenia form żeńskich na –a lub męskich na –o (estudianta, tigra, sapa, pianisto, maquinisto)"
+            ]
+          },
+          {
+            "id": "1.3",
+            "title": "Liczba rzeczowników",
+            "C1": [
+              "Zmiana akcentuacji: proparoksytony, które przesuwają akcent (régimen / regímenes)",
+              "Liczba mnoga zapożyczeń: Hispanizacja (carnet / carné, carnés, meeting / mitin, mítines)",
+              "Nazwiska rodzin, dynastii lub starożytnych rodów: l. mn. (los Escipiones, los Borbones)",
+              "Znaczenie l. mn.: Duale leksykalne (las tenazas, los alicates, los tirantes)"
+            ],
+            "C2": [
+              "Rzeczowniki, które zmieniają znaczenie przy zmianie liczby (el celo / los celos, el resto / los restos)",
+              "Kultyzmy z łaciny i greki: L. mn. regularna (déficit / déficits), L. mn. anomalna (hipérbaton / hipérbatos)",
+              "Jednosylabowe z l. mn. na –s: nazwy nut muzycznych (dos, res, mis)"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "title": "Przymiotnik",
+        "topics": [
+          {
+            "id": "2.1",
+            "title": "Rodzaje przymiotników",
+            "topics": [
+              {
+                "id": "2.1.1",
+                "title": "Przymiotniki jakościowe",
+                "C1": [
+                  "Koloru: Złożenia syntagmatyczne. Zgoda liczby (verde botella, dos trajes azul marino)"
+                ],
+                "C2": [
+                  "Koloru: Złożenia (rojiblanco, blanquinegro)"
+                ]
+              },
+              {
+                "id": "2.1.2",
+                "title": "Przymiotniki relacyjne",
+                "C1": [
+                  "Przymiotniki, które dopuszczają użycie relacyjne i jakościowe (una empresa familiar / una cara familiar)"
+                ],
+                "C2": [
+                  "Rzadkie przymiotniki odnarodowe (pucelana, tinerfeño, bantú)"
+                ]
+              },
+              {
+                "id": "2.1.3",
+                "title": "Przymiotnik względny dzierżawczy 'cuyo'",
+                "C1": [
+                  "Odmiana przez rodzaj i liczbę. Zgoda z tym, co posiadane.",
+                  "W zdaniach względnych określających (la chica cuyos padres viven al lado nuestro).",
+                  "W zdaniach względnych wtrąconych (Ese cantante, cuyos discos han sido criticados...)."
+                ],
+                "C2": []
+              }
+            ]
+          },
+          {
+            "id": "2.2",
+            "title": "Rodzaj gramatyczny przymiotnika",
+            "C1": [],
+            "C2": [
+              "[Ameryka Łacińska] Tendencja do rozróżniania rodzaju pewnych przymiotników i tworzenia form męskich na –o (bromisto, cuentisto)."
+            ]
+          },
+          {
+            "id": "2.3",
+            "title": "Liczba przymiotnika",
+            "C1": [],
+            "C2": [
+              "Morfem 0 (nieodmienne co do liczby): rubiales, isósceles",
+              "Zakończone na samogłoskę akcentowaną: l. mn. –es (carmesí / carmesíes)"
+            ]
+          },
+          {
+            "id": "2.4",
+            "title": "Pozycja przymiotnika",
+            "C1": [
+              "Przed rzeczownikiem z wartością określnika ilości (w rzadkich przypadkach).",
+              "W zdaniach wykrzyknikowych z 'qué' (¡Qué bonito paisaje!).",
+              "Izolowany przymiotnik w dopełnieniach orzekających (Orgullosa, respondió...)."
+            ],
+            "C2": [
+              "Przed rzeczownikiem z wartością literacką (la oscura noche).",
+              "Przed rzeczownikiem dla 'buen' i 'mal' z wartością oceniającą (ni un mal trozo de pan).",
+              "Z wartością ironiczną (Valiente soldado está hecho).",
+              "Przymiotniki przed rzeczownikiem w stałych połączeniach (pleno apogeo, altas instancias).",
+              "Izolowany przymiotnik tematyzowany lub ogniskowany (impecables, sonrientes llegaron...)."
+            ]
+          },
+          {
+            "id": "2.5",
+            "title": "Stopniowanie przymiotnika",
+            "C1": [
+              "Najwyższy absolutny lub elatywny nieregularny przymiotników na –ble (amabilísimo).",
+              "Najwyższy absolutny lub elatywny nieregularny kultyzm (óptimo, pésimo, mínimo)."
+            ],
+            "C2": [
+              "Porównawczy kultyzm łaciński rzadki (ulterior).",
+              "Alternacja formy regularnej i kultyzmu w stopniu najwyższym (pobrísimo / paupérrimo).",
+              "Forma kultyzmu stopnia najwyższego (antiquísimo, libérrimo, celebérrimo).",
+              "Inne mechanizmy stopnia najwyższego (przedrostki: requete–, sufiksy kultyzmy: –érrimo)."
+            ]
+          },
+          {
+            "id": "2.6",
+            "title": "Metabaza przymiotnika (zmiana funkcji)",
+            "C1": [],
+            "C2": [
+              "Adwerbializacja (uprzysłówkowienie) (conduce rápido = conduce rápidamente, habla claro = habla claramente).",
+              "[Ameryka Łacińska] Tendencja do adwerbializacji przymiotników (Viste lindo, Anda ligero)."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "title": "Rodzajnik",
+        "topics": [
+          {
+            "id": "3.1",
+            "title": "Rodzajnik określony",
+            "C1": [
+              "Wartość emfatyczna ze zdaniem względnym lub 'lo' (La cara que puso. Lo mal que cantó).",
+              "Wartość rzeczownikotwórcza bezokoliczników i zdań (el ser de otro país, Me preocupa el que no me lo haya dicho).",
+              "Zgodność z określnikami ilości z modyfikatorem ograniczającym (los pocos amigos que tiene).",
+              "Zgodność z 'hay' z modyfikatorem ograniczającym (hay el lío de siempre)."
+            ],
+            "C2": [
+              "Wartość emfatyczna stopnia maksymalnego lub ilościowego (es la película, ¡La de disparates que dijo!).",
+              "Wartość rzeczownikotwórcza w konstrukcjach atrybutywnych (el inepto de tu hermano).",
+              "Dystrybucja z nazwami własnymi, nazwiskami, przezwiskami.",
+              "Współwystępowanie z zaimkiem wskazującym po rzeczowniku (los chicos estos)."
+            ]
+          },
+          {
+            "id": "3.2",
+            "title": "Rodzajnik nieokreślony",
+            "C1": [
+              "Wartość emfatyczna ze znaczeniem skutkowym (Tiene una cara que es de impresión).",
+              "Zgodność z nazwami własnymi (Un Buñuel, un Carreras pletórico, un Picasso, un tal José Durán).",
+              "Zgodność w konstrukcjach emfatycznych (un encanto de persona).",
+              "Niezgodność nieokreślonego podmiotu z orzeczeniem stanu.",
+              "Dyslokacja w lewo (Una cámara, mejor que sea digital)."
+            ],
+            "C2": [
+              "Wartość emfatyczna ze wzmocnieniami (todo un médico, un señor médico).",
+              "Z 'una de' + rzeczownik (¡Tengo una de libros viejos!).",
+              "Wartość rzeczownikotwórcza bezokoliczników lub kategorii (un despertar sin sosiego, un porqué).",
+              "W połączeniu z 'todo' z wartością emfatyczną (todo un hombre)."
+            ]
+          },
+          {
+            "id": "3.3",
+            "title": "Brak określnika: rzeczowniki \"nagie\"",
+            "C1": [
+              "Jako dopełnienia orzekające (La nombraron embajadora).",
+              "Niezgodność z orzeczeniami ograniczonymi (*Luis se comió bistec).",
+              "Poprzedzone przez 'en' do wyrażania środka lub sposobu (ir en tren).",
+              "Poprzedzone przez 'con' i 'a' (escribir a mano, con bolígrafo).",
+              "W apozycjach opisowych (Valencia, tierra de naranjos)."
+            ],
+            "C2": [
+              "Podmiot przed czasownikiem z akcentem kontrastowym (Oro es lo que necesito).",
+              "W nagłówkach prasowych (Alcalde desobedece una sentencia).",
+              "W przysłowiach (Casa con dos puertas...).",
+              "Poprzedzone przez 'en' do wyrażania sytuacji (Está en prisión)."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "title": "Zaimki wskazujące",
+        "C1": [
+          "Anaforyczne dyskursywne z kryterium bliskości (Estas eran majestuosas y aquellos apacibles).",
+          "Eso + zdanie podrzędne (Eso que dices es una tontería).",
+          "Wartość protekcjonalna lub pogardliwa (este chico..., Esta es una lista).",
+          "Pozycja po rzeczowniku w wykrzyknieniach (¡Qué hombre este!)."
+        ],
+        "C2": [
+          "Anaforyczne z kryterium bliskości (Este Juan del que me hablas...).",
+          "Odnośnik osoba z wartością zaskoczenia, humorystyczną lub nieformalną (¡Mira este qué listo!).",
+          "Pozycja po rzeczowniku w wykrzyknieniach z 'vaya'.",
+          "Wartość pogardliwa este/a/os/as po rzeczowniku (el niño este)."
+        ]
+      },
+      {
+        "id": "5",
+        "title": "Zaimki dzierżawcze",
+        "C1": [
+          "Wartość kwantyfikacyjna (Esto tiene su dificultad).",
+          "Poprzedzone przez 'lo' (Esto es lo tuyo, Pasé lo mío).",
+          "Wyrażenia stałe kontaktu (hija mía, cariño mío)."
+        ],
+        "C2": [
+          "Intensyfikatory (muy mío, más mío que tuyo).",
+          "Emfatyczne dla elementów prototypowych (Un armario, con sus perchas...).",
+          "W wykrzyknieniach (¡Qué cara la suya!).",
+          "Odcień humorystyczny lub ironiczny z zaimkiem wskazującym (Este novio tuyo...).",
+          "Formuła stała formalna z ironią (Está usted muy equivocado, señor mío).",
+          "Wyrażenia z zaimkami dzierżawczymi (salirse con la suya, tú a lo tuyo)."
+        ]
+      },
+      {
+        "id": "6",
+        "title": "Określniki ilości",
+        "topics": [
+          {
+            "id": "6.1",
+            "title": "Właściwe określniki ilości",
+            "C1": [
+              "Liczebniki ułamkowe (la enésima parte, la mitad de la mitad).",
+              "Uniwersalne: Todo (z wartością uogólniającą, poprzedzone 'de'), Cada uno.",
+              "Względny określnik ilości 'cuanto'.",
+              "Nieuniwersalne przeczące (jamás, en mi vida).",
+              "Stopniujące: porównawcze z 'de lo que', proporcjonalne (bien caliente)."
+            ],
+            "C2": [
+              "Liczebniki porządkowe (cuadragésimo), dystrybutywny (sendos/as).",
+              "Stopniujące: porównawcze z elipsą elementu porównania (Es más tonto...), proporcjonalne (toda mojada, nada caro).",
+              "Określniki ilości z wartością emfatyczną (muy hombre, demasiado casa, cada cosa...)."
+            ]
+          },
+          {
+            "id": "6.2",
+            "title": "Określniki ilościowe ogniskujące lub presuponujące",
+            "C1": [
+              "Włączające: Ni siquiera (nawet nie).",
+              "Wykluczające: Al menos (przynajmniej)."
+            ],
+            "C2": [
+              "Włączające: Hasta (nawet).",
+              "Wykluczające: Apenas (ledwo)."
+            ]
+          },
+          {
+            "id": "6.3",
+            "title": "Struktury ilościowe",
+            "C1": [
+              "Struktury partytywne z 'totalidad', 'resto'.",
+              "Zgoda 'ad sensum' z rodzajnikiem nieokreślonym (Un grupo de políticos votaron...)."
+            ],
+            "C2": [
+              "Struktury ilościowe jak 'algún que otro', 'todo lo más'."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "title": "Zaimek",
+        "topics": [
+          {
+            "id": "7.1",
+            "title": "Zaimek osobowy",
+            "topics": [
+              {
+                "id": "7.1.1",
+                "title": "Zaimek w funkcji podmiotu",
+                "C1": [
+                  "Forma: zaimek nijaki 'ello'.",
+                  "Obecność do rozwiązania niejednoznaczności w trybie łączącym i warunkowym (¡Más quisiera él / yo!).",
+                  "Obecność w konstrukcjach absolutnych (Al llegar él...).",
+                  "Obecność w podwojeniu emfatycznym (Luis limpia el coche él mismo)."
+                ],
+                "C2": [
+                  "Odnośnik nie-ludzki (se enciende ella sola).",
+                  "Personifikacja (La paz... Ella debe dirigir...).",
+                  "Obecność z wartością emfatyczną (¡Si yo no le he hecho nada!).",
+                  "Obecność z dopełnieniami ilościowymi przymiotnikowymi (Tú solo lo hiciste)."
+                ]
+              },
+              {
+                "id": "7.1.2",
+                "title": "Zaimki nieakcentowane dopełnienia bliższego (OD)",
+                "C1": [
+                  "Forma: Leísmo rzeczy.",
+                  "Alternacja ze zmianą znaczenia (coge / cógelos).",
+                  "Alternacja bez zmiany znaczenia (Trae papel si lo tienen / si tienen).",
+                  "Ograniczenia w obowiązkowej obecności z OD niezaimkowym.",
+                  "Pozycja: Alternacja z 'algunos' w konstrukcjach bezosobowych (Los hay que piensan...)."
+                ],
+                "C2": [
+                  "Wartości: Wyrażenia stałe (arreglárselas, fastidiarla, tomarla con)."
+                ]
+              },
+              {
+                "id": "7.1.3",
+                "title": "Zaimki nieakcentowane dopełnienia dalszego (OI): seria me, te, le",
+                "C1": [
+                  "Forma: w zdaniach bezosobowych (Me fue imposible llamar).",
+                  "Forma: liczba mnoga OI w 'se lo' w Ameryce Łacińskiej (Se los di [książkę im]).",
+                  "Forma: Laísmo i loísmo.",
+                  "Brak, gdy OI nie można sprecyzować.",
+                  "Alternacja, gdy OI jest bardzo ogólne."
+                ],
+                "C2": [
+                  "Wartość nijaka 'le' (No le hagas caso a lo que piensen).",
+                  "Tematyzator dopełnień lokatywnych (Se le echó encima).",
+                  "Le zamiast les w strukturach z podwojeniem (użycie potoczne).",
+                  "Dativus ethicus (No me duerme bien).",
+                  "Wyrażenia stałe (¡No te fastidia!, ¡Me las pagarás!)."
+                ]
+              },
+              {
+                "id": "7.1.4",
+                "title": "Wartości zaimka 'se'",
+                "C1": [
+                  "Bezosobowe i strona bierna zwrotna: ograniczenia (Se saludó a los conferenciantes).",
+                  "Konstrukcje medialno-bezosobowe (A los miedosos se les asusta).",
+                  "Konstrukcje z czasownikiem zaimkowym (acordarse de algo).",
+                  "Dativus commodi/incommodi (Felipe se comió un pollo)."
+                ],
+                "C2": [
+                  "Strona medialna + dzierżawczy (Se me abre la boca).",
+                  "Bezosobowe z klauzulami zredukowanymi (Se consideró inocentes...).",
+                  "Alternacja z/bez zaimka w konstrukcjach medialnych (Esta ventana no se cierra / no cierra bien).",
+                  "Dativus possessivus: odcienie emfatyczne."
+                ]
+              },
+              {
+                "id": "7.1.5",
+                "title": "Kombinacja zaimków nieakcentowanych",
+                "C1": [],
+                "C2": [
+                  "Ograniczenia: Nakładanie się referencji (*Me nos regaló).",
+                  "Zastąpienie lo/los przez le/les w 'se' bezosobowym + 'lo' (Se le ve bien).",
+                  "Strategie dla niemożliwych sekwencji (Me entregaron a él)."
+                ]
+              },
+              {
+                "id": "7.1.6",
+                "title": "Zaimki akcentowane jako dopełnienia przyimkowe",
+                "C1": [
+                  "Forma: 'consigo'.",
+                  "Zaimek 'sí' (Lo pensó para sí).",
+                  "Zwrotny: tendencja do zastępowania go (Habla para sí / para él).",
+                  "Wzmocnienie przez 'mismo/a/os/as' (para sí misma).",
+                  "Odnośnik niekoniecznie ludzki (en ella hay mucha acción)."
+                ],
+                "C2": []
+              }
+            ]
+          },
+          {
+            "id": "7.2",
+            "title": "Zaimki względne",
+            "C1": [
+              "'Que' w zdaniach względnych określających, z nieokreślonymi i wskazującymi.",
+              "'el que', 'la que', etc. (lo que nieodmienne, w porównawczych, bez poprzednika).",
+              "'quien/quienes' (równoważność z el/la que, w zdaniach wtrąconych i wolnych).",
+              "'el cual', etc. (rejestr podniosły, w zdaniach zestawionych).",
+              "'cuyo' i 'cuanto'."
+            ],
+            "C2": [
+              "'que' w zdaniach względnych orzekających, emfatycznych i skutkowych.",
+              "'quien/quienes' z niezgodnością z 'todo'.",
+              "Zaimki względne nieokreślone (-quiera).",
+              "Zdania względne jako dopełnienie orzekające, emfatyczne, etc."
+            ]
+          },
+          {
+            "id": "7.3",
+            "title": "Zaimki pytające",
+            "C1": [
+              "Wyrażenia przysłówkowe.",
+              "Kolejność elementów w strukturach partytywnych.",
+              "Zaimki pytające skoordynowane i ich ograniczenia."
+            ],
+            "C2": [
+              "'Qué' w pozycji niepoczątkowej (¿Quién compró qué?).",
+              "Kolejność elementów z 'por qué' prostym i złożonym.",
+              "Interpretacja na odległość w zdaniach podrzędnych z bezokolicznikiem."
+            ]
+          },
+          {
+            "id": "7.4",
+            "title": "Zaimki wykrzyknikowe",
+            "C1": [
+              "'Cuánto' z przymiotnikiem wartościującym.",
+              "'Dónde' z lub bez przyimka.",
+              "Kolejność elementów (¡Qué golpe le dio!)."
+            ],
+            "C2": [
+              "'Qué' z następującym 'que' oceniającym (¡Qué guapo que es!).",
+              "'Cómo' z 'de bien/mal' lub z atrybutem + 'de'.",
+              "'Cuán' (rejestr literacki).",
+              "Interpretacja na odległość (¡Qué magnífico trabajo dicen que...!)."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "8",
+        "title": "Przysłówek i wyrażenia przysłówkowe",
+        "topics": [
+          {
+            "id": "8.1",
+            "title": "Przysłówki na -mente",
+            "C1": [
+              "Ograniczenia: 'duramente' stosowane tylko do działań jakościowych."
+            ],
+            "C2": [
+              "Ograniczenia: zaimkowe (z wyjątkiem użycia potocznego).",
+              "Swoboda w języku literackim (madrileñamente, tuyamente)."
+            ]
+          },
+          {
+            "id": "8.2",
+            "title": "Przysłówki nuklearne lub orzeczenia",
+            "C1": [
+              "Miejsca: acá, allá.",
+              "Sposobu: działania, oceny, wynikowe, sprawcze.",
+              "Jednoczesne wyrażanie pojęć (przyczyna, narzędzie, porównanie).",
+              "Okoliczniki obowiązkowe z ogniskiem.",
+              "Przysłówek ramowy (Aquí, ¿vas a trabajar?)."
+            ],
+            "C2": [
+              "Ilości: Ognisko (MUCHO sabes tú).",
+              "Sposobu: zakres negacji.",
+              "Przysłówki jako orzeczenia (Fuera la guerra)."
+            ]
+          },
+          {
+            "id": "8.3",
+            "title": "Przysłówki zewnętrzne wobec dictum",
+            "C1": [
+              "Przysłówki pojęciowe lub punktu widzenia (técnicamente, geográficamente).",
+              "Przysłówki oceniające: konieczności, wiedzy, epistemiczne."
+            ],
+            "C2": [
+              "Przysłówki pojęciowe z gerundio (políticamente hablando).",
+              "Zakres negacji."
+            ]
+          },
+          {
+            "id": "8.4",
+            "title": "Przysłówki modalne",
+            "C1": [
+              "Wzmacniające i ograniczające prawdziwość.",
+              "Metajęzykowe: przeformułowujące równoważności (literalmente).",
+              "Zorientowane na nadawcę lub odbiorcę (francamente)."
+            ],
+            "C2": [
+              "Wskaźniki postawy: Acaso, fácil, por ahí.",
+              "Przeformułowujące korygujące (más bien), równoważności (sic), incydentalne (de paso)."
+            ]
+          },
+          {
+            "id": "8.5",
+            "title": "Przysłówki łączące",
+            "C1": [
+              "Odcienie skutkowe (consecuentemente).",
+              "Przeciwstawne ograniczające (solo que).",
+              "Odcień przyzwalający (contrariamente a).",
+              "Kontynuacyjne przejściowe (ahora bien)."
+            ],
+            "C2": [
+              "Wykluczające (puramente)."
+            ]
+          },
+          {
+            "id": "8.6",
+            "title": "Fokalizatory (ograniczające)",
+            "C1": [
+              "Wykluczające: sencillamente, simplemente."
+            ],
+            "C2": [
+              "Szczegółujące: Máxime.",
+              "Wykluczające: Meramente."
+            ]
+          },
+          {
+            "id": "8.7",
+            "title": "Intensyfikatory",
+            "C1": [],
+            "C2": [
+              "Harto (rejestr podniosły)."
+            ]
+          },
+          {
+            "id": "8.8",
+            "title": "Przysłówki względne i pytające",
+            "C1": [],
+            "C2": [
+              "Względny 'cuanto' z trybem oznajmującym i łączącym.",
+              "Pytający 'cómo' z następującym 'que' (¿Cómo que no vas a comer?)."
+            ]
+          },
+          {
+            "id": "8.9",
+            "title": "Wyrażenia przysłówkowe",
+            "C1": [],
+            "C2": [
+              "Podwójna interpretacja 'por qué' (proste/złożone)."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "9",
+        "title": "Czasownik",
+        "topics": [
+          {
+            "id": "9.1",
+            "title": "Czasy trybu oznajmującego (Indicativo)",
+            "topics": [
+              {
+                "id": "9.1.1",
+                "title": "Czas teraźniejszy (Presente)",
+                "C1": [
+                  "Wartość historyczna (Colón llega a América en 1492)."
+                ],
+                "C2": [
+                  "Wartość wolicjonalna (¡No te lo consiento!).",
+                  "Wartość przyszłości z groźbą (¡Antes te mato!).",
+                  "Wartość analityczna (w podpisach pod zdjęciami)."
+                ]
+              },
+              {
+                "id": "9.1.2",
+                "title": "Czas przeszły niedokonany (Pretérito imperfecto)",
+                "C1": [
+                  "Wartość wymówki (¡Y yo qué sabía!).",
+                  "Wartość zaskoczenia (Anda, estabas aquí.).",
+                  "Wartość cenzury (¿Tú no tenías que hacer...?).",
+                  "Mowa zależna ukryta (María se casaba mañana.)."
+                ],
+                "C2": [
+                  "Imperfecto cenzury (¡Lo que faltaba!).",
+                  "Imperfecto zamiast warunkowego (Si tuviera tiempo, me iba...).",
+                  "Imperfecto narracyjny lub dziennikarski.",
+                  "Wartość dystansowania (mira dónde estaba el libro)."
+                ]
+              },
+              {
+                "id": "9.1.3",
+                "title": "Czas przeszły dokonany prosty (Pretérito indefinido)",
+                "C1": [],
+                "C2": [
+                  "Wartość teraźniejszości (¡Ya llegaron! [przed lądowaniem])."
+                ]
+              },
+              {
+                "id": "9.1.4",
+                "title": "Czas przyszły prosty (Futuro imperfecto)",
+                "C1": [
+                  "Wartość sprzeciwu lub odrzucenia (Será muy listo pero...).",
+                  "Futuro polecenia (Harás lo que te diga.)."
+                ],
+                "C2": [
+                  "Futuro zaskoczenia, zdziwienia lub nagany (¡Será egoísta!).",
+                  "Stanowcze twierdzenie (¡Si lo sabré yo!).",
+                  "Podkreślanie odpowiedzialności (¡Tú verás!)."
+                ]
+              },
+              {
+                "id": "9.1.5",
+                "title": "Tryb warunkowy prosty (Condicional simple)",
+                "C1": [
+                  "Wartość sprzeciwu lub odrzucenia w przeszłości (Sería muy listo pero...)."
+                ],
+                "C2": [
+                  "Wartość ostrzeżenia lub obawy w przeszłości (¿No pensarías que fui yo?).",
+                  "Warunkowy dziennikarski (ukryte cytaty).",
+                  "Zamiana z imperfecto de subjuntivo/indicativo z czasownikami modalnymi."
+                ]
+              },
+              {
+                "id": "9.1.6",
+                "title": "Czas przeszły dokonany złożony (Pretérito perfecto)",
+                "C1": [
+                  "[Ameryka Łacińska, Hiszpania] Tendencja do używania pretérito indefinido zamiast perfecto."
+                ],
+                "C2": [
+                  "Alternacje imiesłowów słabych (czasownik) i mocnych (przymiotnik)."
+                ]
+              },
+              {
+                "id": "9.1.7",
+                "title": "Czas zaprzeszły dokonany (Pretérito anterior)",
+                "C1": [],
+                "C2": [
+                  "Forma i wartość bezpośredniej uprzedniości (En cuanto hubo saludado...).",
+                  "Neutralizacja z indefinido i pluscuamperfecto.",
+                  "Rejestr literacki i zanik w Ameryce Łacińskiej."
+                ]
+              },
+              {
+                "id": "9.1.8",
+                "title": "Czas zaprzeszły (Pretérito pluscuamperfecto)",
+                "C1": [
+                  "Wartość próby w przeszłości (Había estado a punto de...)."
+                ],
+                "C2": [
+                  "Grzeczność (¿Me había llamado el señor?).",
+                  "Neutralizacje z 'ya'."
+                ]
+              },
+              {
+                "id": "9.1.9",
+                "title": "Czas przyszły złożony (Futuro perfecto)",
+                "C1": [
+                  "Wartość sprzeciwu lub kontrastu w przeszłości (Habrá estudiado mucho pero...).",
+                  "Zamiennik 'espero que', 'no creo que', etc. (¿No me habré olvidado...?)"
+                ],
+                "C2": [
+                  "Futuro zaskoczenia, nagany (¿No habrás tenido el valor?).",
+                  "Wartość ostrzeżenia lub obawy.",
+                  "Stanowcze twierdzenie (¡No se lo habré advertido...!)."
+                ]
+              },
+              {
+                "id": "9.1.10",
+                "title": "Tryb warunkowy złożony (Condicional compuesto)",
+                "C1": [
+                  "Wartość sprzeciwu lub kontrastu w przeszłości (Habría estudiado mucho pero...)."
+                ],
+                "C2": [
+                  "Wartość ostrzeżenia lub obawy w przeszłości.",
+                  "Warunkowy dziennikarski (ukryte cytaty).",
+                  "Relacja z innymi czasami (consecutio temporum)."
+                ]
+              }
+            ]
+          },
+          {
+            "id": "9.2",
+            "title": "Czasy trybu łączącego (Subjuntivo)",
+            "topics": [
+              {
+                "id": "9.2.1",
+                "title": "Czas teraźniejszy (Presente)",
+                "C1": [
+                  "Wyrażenia życzeniowe z odcieniem pogardliwym (Así te lleves...).",
+                  "Formuła 'que' + presente bez wcześniejszego rozkazu.",
+                  "Podwójna interpretacja czasowników percepcji w przeczeniu.",
+                  "Efekty negacji w zdaniach przyczynowych.",
+                  "W zdaniach celu z wyrażeniami spójnikowymi."
+                ],
+                "C2": [
+                  "Wprowadzone przez 'dondequiera' (rejestr literacki).",
+                  "W zdaniach przyczynowych z 'porque' (pytanie, negacja).",
+                  "W zdaniach przyzwalających z 'así', 'porque', etc.",
+                  "Czasowniki zmieniające znaczenie i wybór trybu (entender, decidir)."
+                ]
+              },
+              {
+                "id": "9.2.2",
+                "title": "Czas przeszły niedokonany (Pretérito imperfecto)",
+                "C1": [
+                  "Wyrażenia życzeniowe z odcieniem pogardliwym (Así tuviera...).",
+                  "W wykrzyknieniach z 'quién' (Quién tuviera tus años)."
+                ],
+                "C2": [
+                  "Wyrażenia nierealności (qué más quisiera).",
+                  "Imperfecto de subjuntivo zamiast warunkowego z 'deber' (Debieras disculparte)."
+                ]
+              },
+              {
+                "id": "9.2.3",
+                "title": "Czas przeszły dokonany (Pretérito perfecto)",
+                "C1": [
+                  "Zastępuje futuro perfecto de indicativo (prawdopodobieństwo) w zdaniach podrzędnych."
+                ],
+                "C2": [
+                  "Przypadki zastąpienia przez czas niedokonany (No creo que haya pasado / pasase...)."
+                ]
+              },
+              {
+                "id": "9.2.4",
+                "title": "Czas zaprzeszły (Pretérito pluscuamperfecto)",
+                "C1": [
+                  "Forma i wartość zorientowana na współrzędne przeszłości."
+                ],
+                "C2": [
+                  "Forma i wartość zorientowana na współrzędne przeszłości."
+                ]
+              },
+              {
+                "id": "9.2.5",
+                "title": "Czas przyszły (Futuro)",
+                "C1": [],
+                "C2": [
+                  "Forma i użycie w żargonie administracyjnym/prawniczym.",
+                  "Wyrażenia zleksykalizowane (Sea como fuere, Donde fueres haz lo que vieres)."
+                ]
+              }
+            ]
+          },
+          {
+            "id": "9.3",
+            "title": "Tryb rozkazujący (Imperativo)",
+            "C1": [
+              "Środki powtórzenia lub wzmocnienia (Vete ya, he dicho).",
+              "Odcień ironiczny w zleksykalizowanych rozkazach (¡Mira qué bien!).",
+              "Wartość warunkowa (Abre la caja y verás...).",
+              "Zleksykalizowane rozkazy oceniające i wyrażające irytację."
+            ],
+            "C2": [
+              "Wartość warunkowa z odcieniem groźby lub obietnicy.",
+              "Wartość przyzwalająca (rejestr potoczny).",
+              "Zleksykalizowane rozkazy afirmacji, satysfakcji, zdumienia, niedowierzania, nagany."
+            ]
+          },
+          {
+            "id": "9.4",
+            "title": "Formy nieosobowe czasownika",
+            "topics": [
+              {
+                "id": "9.4.1",
+                "title": "Bezokolicznik (Infinitivo)",
+                "C1": [
+                  "Wartość werbalna zmodalizowana (¡Descansar tres meses!, ¿Decirle yo...?).",
+                  "W zdaniach podrzędnych jako dopełnienie rzeczownika lub przymiotnika.",
+                  "W zdaniach względnych z nieokreślonym poprzednikiem.",
+                  "Wartość nominalna (pełna i niepełna rekategoryzacja)."
+                ],
+                "C2": [
+                  "Podmiot domyślny kontrolowany przez dopełnienie dalsze.",
+                  "Bezokolicznik złożony niezależny (¡Haberte presentado...!).",
+                  "Bezokolicznik zamiast rozkazującego w l. mn. (rejestry potoczne)."
+                ]
+              },
+              {
+                "id": "9.4.2",
+                "title": "Imiesłów czynny (Gerundio)",
+                "C1": [
+                  "Wartość werbalna zmodalizowana (¡Siempre protestando!, ¿Yo pidiéndole...?).",
+                  "Orzecznik w grupie nominalnej.",
+                  "Dopełnienia wewnętrzne i zewnętrzne."
+                ],
+                "C2": [
+                  "Gerundio złożone.",
+                  "Dopuszczanie zdrobnień.",
+                  "Wartość werbalna niezależna w pytaniach, epigrafach.",
+                  "Dopełnienia zewnętrzne przyczynowe, przyzwalające.",
+                  "Gerundia zleksykalizowane (tan corriendo)."
+                ]
+              },
+              {
+                "id": "9.4.3",
+                "title": "Imiesłów bierny (Participio)",
+                "C1": [
+                  "W stronie biernej stanu (Este pueblo está maldito).",
+                  "Niezależny zmodalizowany (¡Encerrada...!, ¿Confundido?).",
+                  "Konstrukcje absolutne bez spójników (Terminada la investigación...)."
+                ],
+                "C2": [
+                  "Konstrukcje absolutne ze spójnikami czasowymi (Hasta concluidas las tres horas...).",
+                  "Wypadnięcie -d- w -do (rejestr potoczny)."
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "10",
+        "title": "Fraza rzeczownikowa (Grupa nominalna)",
+        "topics": [
+          {
+            "id": "10.1",
+            "title": "Rdzeń",
+            "C1": [
+              "Grupa nominalna z elipsą rdzenia z interpretacją kataforyczną.",
+              "Dyslokacja w lewo.",
+              "Nominalizacje."
+            ],
+            "C2": []
+          },
+          {
+            "id": "10.2",
+            "title": "Dopełnienia i modyfikatory",
+            "C1": [
+              "Podwójna interpretacja dopełnień (obiektywna/subiektywna).",
+              "Modyfikatory zdaniowe (dopełniające z bezokolicznikiem/czasownikiem odmienionym).",
+              "Kombinacja przymiotników relacyjnych.",
+              "Niejednoznaczność imiesłów/przymiotnik.",
+              "Wyrażenie wartości atrybutywnej (un espanto de peinado)."
+            ],
+            "C2": []
+          },
+          {
+            "id": "10.3",
+            "title": "Zgoda wewnętrzna w grupie nominalnej",
+            "C1": [
+              "Zgoda rzeczowników skoordynowanych z przymiotnikiem.",
+              "Liczba mnoga ze znaczeniem jednostkowym (bloki semantyczne).",
+              "Przymiotnik przed dwoma rzeczownikami w l. poj.",
+              "Zgoda l. poj./l. mn. z odcieniami."
+            ],
+            "C2": []
+          },
+          {
+            "id": "10.4",
+            "title": "Zgoda grupy nominalnej z czasownikiem",
+            "C1": [
+              "Celowe niezgodności: pluralis maiestaticus, użycie 1. osoby l. mn., pluralis modestiae."
+            ],
+            "C2": []
+          }
+        ]
+      },
+      {
+        "id": "11",
+        "title": "Fraza przymiotnikowa (Grupa przymiotnikowa)",
+        "topics": [
+          {
+            "id": "11.2",
+            "title": "Dopełnienia i modyfikatory",
+            "C1": [
+              "Dopełnienia zdaniowe (pytające zależne).",
+              "Konstrukcje nietypowe (frazy w stopniu najwyższym nijakie 'de lo más divertido').",
+              "Wyrażenia ilościowe (la mar de)."
+            ],
+            "C2": [
+              "Z 'mucho', 'algo', 'poco', 'nada' + 'de'.",
+              "Konstrukcje nietypowe zgody (corta de entendimiento).",
+              "Dopełnienia nominalne [+ ożywione] (la graciosa de mi tía)."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "12",
+        "title": "Fraza czasownikowa (Grupa werbalna)",
+        "topics": [
+          {
+            "id": "12.1",
+            "title": "Rdzeń",
+            "C1": [
+              "Nieprzechodnie jako przechodnie (Corrió una maratón).",
+              "Strona bierna stanu (ograniczenia).",
+              "Peryfrazy aspektualne (llegar a, echar a) i modalne (venir a).",
+              "Ser/Estar bez przymiotnika i z przymiotnikiem (użycia specyficzne).",
+              "Czasowniki pseudokopulatywne (mantenerse, mostrarse)."
+            ],
+            "C2": [
+              "Peryfrazy modalne (haber de, acertar a).",
+              "Niejednoznaczności i rozróżnienie peryfraza/wyrażenie czasownikowe.",
+              "Ser bez przymiotnika (znaczenie filozoficzne, peryfraza względna emfatyczna).",
+              "Wyrażenia z ser i estar (Es listo como el hambre, Está para comérselo).",
+              "Rekategoryzacja z 'estar' (Hoy estás muy trabajador)."
+            ]
+          },
+          {
+            "id": "12.2",
+            "title": "Dopełnienia",
+            "topics": [
+              {
+                "id": "12.2.2",
+                "title": "Dopełnienie bliższe (Objeto directo)",
+                "C1": [
+                  "Dopełnienie bliższe niewyrażone (mylenie przechodni/nieprzechodni).",
+                  "Klauzule minimalne lub zredukowane (Eligieron a Luis presidente).",
+                  "Leísmo rzeczy."
+                ],
+                "C2": [
+                  "Podwojenie dopełnienia bliższego z wartością emfatyczną (UNOS LIBROS quiere Juan)."
+                ]
+              },
+              {
+                "id": "12.2.3",
+                "title": "Dopełnienie dalsze (Objeto indirecto)",
+                "C1": [
+                  "Podwojenie dopełnienia dalszego (ograniczenia).",
+                  "Dativus commodi/incommodi.",
+                  "Rozpowszechniony laísmo i loísmo."
+                ],
+                "C2": [
+                  "Inne użycia celownika (Le va detrás, Este niño no me come)."
+                ]
+              },
+              {
+                "id": "12.2.5",
+                "title": "Dopełnienie przyimkowe rządu",
+                "C1": [
+                  "Swobodna alternacja dopełnienie bliższe/dopełnienie rządu (Cuida a Ana / Cuida de Ana).",
+                  "Czasowniki zaimkowe rządzące przyimkiem (acordarse de)."
+                ],
+                "C2": [
+                  "Mylenie z dopełnieniem bliższym (Contestó a nuestras preguntas. / Las contestó.)."
+                ]
+              },
+              {
+                "id": "12.2.6",
+                "title": "Dopełnienie orzekające",
+                "C1": [
+                  "Zdania podrzędne jako dopełnienie orzekające (bezokolicznik, gerundio, participio)."
+                ],
+                "C2": [
+                  "Wartość stylistyczna (El río desciende raudo).",
+                  "Zdania względne jako dopełnienie orzekające."
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "13",
+        "title": "Zdanie pojedyncze",
+        "topics": [
+          {
+            "id": "13.1",
+            "title": "Zgoda (Concordancia)",
+            "C1": [
+              "Zgoda 'ad sensum' (w partytywnych, z określnikami ilości).",
+              "Celowe niezgodności (El culpable somos todos)."
+            ],
+            "C2": [
+              "Pluralis modestiae i maiestaticus.",
+              "Zgoda z formami grzecznościowymi (Su Excelencia está cansado)."
+            ]
+          },
+          {
+            "id": "13.2",
+            "title": "Składniki",
+            "C1": [
+              "Wariacje w szyku SVO (Llega mañana Pedro).",
+              "Inwersja obowiązkowa we wtrąceniach cytujących.",
+              "Opcjonalne umiejscowienie we frazach w stopniu najwyższym.",
+              "Dyslokacja fraz emfatycznych (En bonito lío...)."
+            ],
+            "C2": []
+          },
+          {
+            "id": "13.3",
+            "title": "Typy zdań pojedynczych",
+            "C1": [
+              "Struktura pytająca z podmiotem na początku (w Ameryce Łacińskiej).",
+              "Pytania poprzedzone tematem (A María, ¿la has visto?)."
+            ],
+            "C2": [
+              "Pytania bezpośrednie szczegółowe z figuratywnym znaczeniem negatywnym.",
+              "Pytania retoryczne."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "14",
+        "title": "Zdania złożone współrzędnie",
+        "topics": [
+          {
+            "id": "14.1",
+            "title": "Łączne (Copulativas)",
+            "C1": [],
+            "C2": [
+              "Asyndeton i polisynedeton.",
+              "Zgoda (Viene / vienen a mi casa Pedro y Ana y Juan)."
+            ]
+          },
+          {
+            "id": "14.3",
+            "title": "Przeciwstawne (Adversativas)",
+            "C1": [
+              "Z 'mas' (Acepté, mas no estaba seguro)."
+            ],
+            "C2": []
+          },
+          {
+            "id": "14.4",
+            "title": "Rozdzielne (Distributivas)",
+            "C1": [
+              "Z 'ahora... ahora' (Ahora está triste, ahora está contenta)."
+            ],
+            "C2": []
+          }
+        ]
+      },
+      {
+        "id": "15",
+        "title": "Zdania złożone podrzędnie",
+        "topics": [
+          {
+            "id": "15.1",
+            "title": "Zdania podrzędne rzeczownikowe",
+            "topics": [
+              {
+                "id": "15.1.1",
+                "title": "Z bezokolicznikiem",
+                "C1": [
+                  "W funkcji dopełnienia bliższego (z czasownikami rozumienia, mowy, prośby).",
+                  "W funkcji dopełnienia rzeczownika lub przymiotnika."
+                ],
+                "C2": []
+              },
+              {
+                "id": "15.1.2",
+                "title": "Z formą osobową",
+                "C1": [
+                  "W funkcji podmiotu (z czasownikami o rzędzie przyimkowym, z włączonym rzeczownikiem, implikatywnymi)."
+                ],
+                "C2": [
+                  "W funkcji dopełnienia bliższego (z czasownikami, które zmieniają tryb oznajmujący/łączący, odcienie intencjonalne)."
+                ]
+              }
+            ]
+          },
+          {
+            "id": "15.2",
+            "title": "Zdania podrzędne przymiotnikowe lub względne",
+            "C1": [
+              "Określające (ograniczenia z zaimkami dzierżawczymi).",
+              "Zaimki względne ('el cual', 'cuyo', 'cuanto').",
+              "Natura poprzednika (nieokreślone, zdaniowe).",
+              "Zgoda osoby i różne konstrukcje względne."
+            ],
+            "C2": [
+              "Określające orzekające i z 'con + que'.",
+              "Zaimki względne nieokreślone (-quiera).",
+              "Natura poprzednika (dopełnienie orzekające).",
+              "Zgoda w konstrukcjach partytywnych.",
+              "Zdania względne zestawione, emfatyczne, etc."
+            ]
+          },
+          {
+            "id": "15.3",
+            "title": "Zdania podrzędne przysłówkowe",
+            "topics": [
+              {
+                "id": "15.3.1",
+                "title": "Czasu",
+                "C1": [
+                  "Uprzedniość z 'antes de/que' (interpretacja niefaktyczna, kontrfaktyczna).",
+                  "Następczość z 'después (de) que', 'tras'.",
+                  "Jednoczesność z 'al + bezokolicznik', 'cuando', 'mientras'.",
+                  "Ograniczenie, intensyfikatory i restrykcje."
+                ],
+                "C2": [
+                  "Następczość z 'no bien'.",
+                  "Ograniczenie z 'desde que', 'hasta que' i neutralizacje.",
+                  "Topikalizacja i koordynacja zdań czasowych."
+                ]
+              },
+              {
+                "id": "15.3.2",
+                "title": "Miejsca",
+                "C1": [
+                  "Kierunek ruchu z 'para donde'."
+                ],
+                "C2": [
+                  "Cel z 'adonde'.",
+                  "Położenie z 'donde' + rzeczownik."
+                ]
+              },
+              {
+                "id": "15.3.3",
+                "title": "Sposobu",
+                "C1": [
+                  "Wprowadzone przez 'como si' + tryb łączący."
+                ],
+                "C2": [
+                  "Wprowadzone przez 'como que' + tryb oznajmujący.",
+                  "Wprowadzone przez 'según y como'."
+                ]
+              },
+              {
+                "id": "15.3.4",
+                "title": "Przyczyny",
+                "C1": [
+                  "Wypowiedzi w pozycji początkowej.",
+                  "Spójniki: a causa de que, gracias a que, por culpa de que."
+                ],
+                "C2": [
+                  "Przyczynowe intensywne z 'de + struktura emfatyczna'.",
+                  "Spójniki: que (potocznie)."
+                ]
+              },
+              {
+                "id": "15.3.5",
+                "title": "Celu",
+                "C1": [
+                  "Typy zintegrowane i peryferyjne.",
+                  "Wartość kontrastu z odcieniem przyzwalającym.",
+                  "Spójniki: para + bezokolicznik, para que (w pozycji wtrąconej).",
+                  "Pytania retoryczne."
+                ],
+                "C2": [
+                  "Wartość kontrastu i odrzucenia.",
+                  "Spójniki: que, a + bezokolicznik.",
+                  "Wyrażenia zleksykalizowane (para qué)."
+                ]
+              },
+              {
+                "id": "15.3.6",
+                "title": "Warunkowe",
+                "C1": [
+                  "Prótasis w trybie oznajmującym (zastępując tryb łączący).",
+                  "Typy: hipotetyczne nierealne, zawieszone.",
+                  "Spójniki: 'a menos que', '(en) caso de', gerundio, imperativo, 'como'."
+                ],
+                "C2": [
+                  "Apódosis w imperfecto de indicativo.",
+                  "Prótasis w futuro de subjuntivo.",
+                  "Spójniki: 'De + bezokolicznik', 'Que..., que...', imperativo z 'y' lub 'que'."
+                ]
+              },
+              {
+                "id": "15.3.7",
+                "title": "Skutkowe",
+                "C1": [
+                  "Współrzędne z 'luego'.",
+                  "Zestawione z 'pues', 'así pues', 'de ahí (que)'.",
+                  "Podrzędne intensywności z 'tal... que', 'cada... que', wykrzyknikowe, zawieszone."
+                ],
+                "C2": [
+                  "Współrzędne z 'de suerte que', 'conque'.",
+                  "Podrzędne intensywności z 'así... que', 'una de... que'.",
+                  "Spójniki: 'de (tal) suerte que', 'tal que', 'así... que', 'de + struktura emfatyczna'."
+                ]
+              },
+              {
+                "id": "15.3.8",
+                "title": "Porównawcze",
+                "C1": [
+                  "Równości, wyższości i niższości z porównaniem różnych cech lub działań.",
+                  "Sposobu z 'a lo'.",
+                  "Ilości ze zdaniami względnymi.",
+                  "Z wartością skutkową ('como para')."
+                ],
+                "C2": [
+                  "Zastąpienie 'como' przez 'cuanto' (rejestr podniosły).",
+                  "Sposobu z wyrażeniami korelacyjnymi ('como... así', 'cual... tal').",
+                  "Z wartością skutkową ('cuanto más/menos')."
+                ]
+              },
+              {
+                "id": "15.3.9",
+                "title": "Przyzwalające",
+                "C1": [
+                  "Niewłaściwe: reduplikowane uniwersalne ('digan lo que digan'), oceniające ('con lo que').",
+                  "Spójniki: 'aun si', 'aun cuando', 'incluso cuando', intensywne ('con el frío que'), 'si bien'."
+                ],
+                "C2": [
+                  "Spójniki: 'Así', 'Porque', 'Tan(to)... como', biegunowe ('Ya grite, ya...'), 'ni siquiera'."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
